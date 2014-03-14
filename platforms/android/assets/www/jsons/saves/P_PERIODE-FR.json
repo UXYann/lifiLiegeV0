@@ -1,0 +1,970 @@
+
+
+[
+{
+     "idLifi" : "6977",
+     "mapNumber" : "3",
+     "coordinates" : "250-705",
+     "etage" : "1",
+     "oeuvre" : [
+          {
+               "idOeuvre" : "GC.ARM.12a.1946.40505",
+               "coordOeuvre" : "238,657",
+               "imageOeuvre" : "GC.ARM.12a.1946.40505.jpg",
+               "textes" : {
+                    "chapeauOeuvre" : "Bien que d&#233;pass&#233;es techniquement, les armes &#224; percussion continu&#232;rent d&#130;&#234;tre fabriqu&#233;es, &#224; Li&#232;ge notamment, jusqu&#130;au milieu du 20e si&#232;cle.  Elles &#233;taient essentiellement destin&#233;es &#224; l&#130;Afrique et &#224; l&#130;Am&#233;rique latine. ",
+                    "legendeImageOeuvre" : "Pistolets jumel&#233;s",
+                    "titreOeuvre" : "Pistolets jumel&#233;s",
+                    "descriptionOeuvre" : "La l&#233;gislation et les r&#233;gimes politiques &#233;tant tr&#232;s instables dans cette partie du continent am&#233;ricain. Les fabricants li&#233;geois prirent parfois, comme c&#130;est ici le cas, la pr&#233;caution de laisser le soin &#224; leurs repr&#233;sentants sur place de recouper le canon des pistolets import&#233;s en fonction de la longueur prescrite par le dernier r&#232;glement en vigueur.  Cette curieuse paire de pistolets de poche - dits \"&#233;cossaises\"  n&#130;est donc pas une fac&#233;tie d&#130;armurier mais correspondait &#224; une n&#233;cessit&#233; commerciale !"
+               },
+               "sousOeuvre" : [
+                    {
+                         "idSSOeuvre" : "131",
+                         "imageSSOeuvre" : "GC.ARM.12a.1946.40505-11.jpg",
+                         "textes" : {
+                              "chapeauSSOeuvre" : "Pistolets pour l&#130;Am&#233;rique latine, d&#130;apr&#232;s le catalogue de Dumoulin Fr&#232;res, &#224; Li&#232;ge (fin du 19e si&#232;cle).",
+                              "legendeImageSSOeuvre" : "Pistolets pour l&#130;Am&#233;rique latine, d&#130;apr&#232;s le catalogue de Dumoulin Fr&#232;res, &#224; Li&#232;ge (fin du 19e si&#232;cle).",
+                              "descriptionSSOeuvre" : "Pas de texte"
+                         }
+                    },
+                    {
+                         "idSSOeuvre" : "132",
+                         "imageSSOeuvre" : "GC.ARM.12a.1946.40505-12.jpg",
+                         "textes" : {
+                              "chapeauSSOeuvre" : "Panoplie d&#130;armes d&#130;exportation d&#130;Antoine Bertrand & Fils, &#224; Li&#232;ge (fin du 19e si&#232;cle).",
+                              "legendeImageSSOeuvre" : "Panoplie d&#130;armes d&#130;exportation d&#130;Antoine Bertrand & Fils, &#224; Li&#232;ge (fin du 19e si&#232;cle).",
+                              "descriptionSSOeuvre" : "Pas de texte"
+                         }
+                    }
+               ]
+          }
+     ]
+},
+{
+     "idLifi" : "9000000",
+     "mapNumber" : "4",
+     "coordinates" : "277-858",
+     "etage" : "2",
+     "oeuvre" : [
+     ]
+},
+{
+     "idLifi" : "7407",
+     "mapNumber" : "6",
+     "coordinates" : "273-103",
+     "etage" : "1",
+     "oeuvre" : [
+          {
+               "idOeuvre" : "GC.ARM.15d.1500.001205",
+               "coordOeuvre" : "251,1047",
+               "imageOeuvre" : "GC.ARM.15d.1500.001205-01.jpg",
+               "textes" : {
+                    "chapeauOeuvre" : "P&#232;re de lillustre &#233;crivain français, le g&#233;n&#233;ral Joseph L&#233;opold Sigisbert Hugo sengage &#224; larm&#233;e &#224; lâge de 15 ans.",
+                    "legendeImageOeuvre" : "M&#232;che de cheveux et diminutifs des d&#233;corations du g&#233;n&#233;ral Hugo, p&#232;re de Victor Hugo. Grand Curtius, Li&#232;ge.",
+                    "titreOeuvre" : "M&#232;che de cheveux et diminutifs des d&#233;corations du g&#233;n&#233;ral Hugo, p&#232;re de Victor Hugo",
+                    "descriptionOeuvre" : "Il fait les campagnes du Rhin, et de Vend&#233;e. Ensuite, il est attach&#233; &#224; la personne de Joseph Bonaparte, fr&#232;re de l&#130;empereur, en Italie et en Espagne.  Rentr&#233; en France, fid&#232;le &#224; l&#130;empereur, il poursuit sa carri&#232;re militaire jusqu&#224; la chute de Napol&#233;on. Les diminutifs de ses trois d&#233;corations et deux m&#232;ches de ses cheveux ont &#233;t&#233; conserv&#233;s dans ce cadre porte-souvenirs selon une habitude ch&#232;re au 19e si&#232;cle."
+               },
+               "sousOeuvre" : [
+                    {
+                         "idSSOeuvre" : "126",
+                         "imageSSOeuvre" : "GC.ARM.15d.1500.001205-11.jpg",
+                         "textes" : {
+                              "chapeauSSOeuvre" : "Photographie de Victor Hugo",
+                              "legendeImageSSOeuvre" : "A. Photographie de Victor Hugo",
+                              "descriptionSSOeuvre" : "Il avait eu la tâche ingrate de lutter contre la gu&#233;rilla en Vend&#233;e, en Italie et en Espagne, o&#249; son fils le met en sc&#232;ne, dans un passage c&#233;l&#232;bre de la « L&#233;gende des Si&#232;cles », donnant &#224; boire &#224; un ennemi agonisant dont le coup de pistolet venait de le manquer de peu."
+                         }
+                    },
+                    {
+                         "idSSOeuvre" : "127",
+                         "imageSSOeuvre" : "GC.ARM.15d.1500.001205-12.jpg",
+                         "textes" : {
+                              "chapeauSSOeuvre" : "Portrait du g&#233;n&#233;ral Joseph L&#233;opold Hugo (1773-1828). Maison de Victor Hugo, Paris.",
+                              "legendeImageSSOeuvre" : "Portrait du g&#233;n&#233;ral Joseph L&#233;opold Hugo (1773-1828). Maison de Victor Hugo, Paris. <br />",
+                              "descriptionSSOeuvre" : "Ce « h&#233;ros au sourire si doux » reçut une premi&#232;re fois la L&#233;gion dHonneur le 25 Prairial An XII (14 juin 1804) et  ensuite sous la Restauration. Cest alors que lui fut octroy&#233;e &#233;galement la Croix de Saint-Louis (27 novembre 1814) pour sa d&#233;fense acharn&#233;e de Thionville assi&#233;g&#233;e en vain par les Alli&#233;s du 8 janvier au 15 avril de cette ann&#233;e. Le g&#233;n&#233;ral Hugo fut n&#233;anmoins plac&#233; en demi-solde et mis &#224; la retraite par le nouveau R&#233;gime apr&#232;s Waterloo."
+                         }
+                    },
+                    {
+                         "idSSOeuvre" : "128",
+                         "imageSSOeuvre" : "GC.ARM.15d.1500.001205-02.jpg",
+                         "textes" : {
+                              "chapeauSSOeuvre" : "Diminutifs des d&#233;corations du g&#233;n&#233;ral Hugo, p&#232;re de Victor Hugo. ",
+                              "legendeImageSSOeuvre" : "Diminutifs des d&#233;corations du g&#233;n&#233;ral Hugo, p&#232;re de Victor Hugo. Grand Curtius, Li&#232;ge.",
+                              "descriptionSSOeuvre" : "Pas de texte"
+                         }
+                    }
+               ]
+          }
+     ]
+},
+{
+     "idLifi" : "9000001",
+     "mapNumber" : "8",
+     "coordinates" : "291-131",
+     "etage" : "2",
+     "oeuvre" : [
+     ]
+},
+{
+     "idLifi" : "19294",
+     "mapNumber" : "9",
+     "coordinates" : "739-443",
+     "etage" : "1",
+     "oeuvre" : [
+          {
+               "idOeuvre" : "GC.ARC.02a.2009.001111",
+               "coordOeuvre" : "739,443",
+               "imageOeuvre" : "GC.ARC.02a.2009.001111.jpg",
+               "textes" : {
+                    "chapeauOeuvre" : "Les fouilles entreprises sur le site de l&#130;ancienne cath&#233;drale Saint-Lambert en 1993 ont permis de mettre au jour une s&#233;rie de colonnes, bases et chapiteaux entiers ou fragmentaires provenant de l&#130;&#233;difice roman. Cette base et ce chapiteau sont les mieux conserv&#233;s. Ils sont en gr&#232;s, mat&#233;riaux dont l&#130;usage caract&#233;rise les &#233;difices li&#233;geois des 11e et 12e si&#232;cles. ",
+                    "legendeImageOeuvre" : "Fragment du chapiteau de la cath&#233;drale Saint-Lambert. Grand Curtius, Li&#232;ge.",
+                    "titreOeuvre" : "Fragment du chapiteau de la cath&#233;drale Saint-Lambert",
+                    "descriptionOeuvre" : "Les bases de colonnes se caract&#233;risent par la pr&#233;sence de griffes d&#130;angle. Les chapiteaux sont de 2 types, circulaires ou carr&#233;s, selon qu&#130;ils couronnent une colonne ou un pilier. La pr&#233;sence de ces 2 types de chapiteaux et de supports permet de penser que leur alternance caract&#233;risait sans doute le rythme int&#233;rieur de la cath&#233;drale. <br /><br />L&#130;un de ces chapiteaux carr&#233;s est expos&#233; ici. Quatre figures d&#130;hommes nus, individualis&#233;s par leur chevelure, en occupent les angles. Leurs membres entourent des motifs v&#233;g&#233;taux d&#233;ploy&#233;s sur les 4 faces. La 1e est occup&#233;e par un homme accroupi ; la 2e par 2 griffons dos &#224; dos, le corps couvert d&#130;&#233;cailles.  Avec leur bec crochu ils pincent les oreilles des personnages d&#130;angle. La 3e montre 2 dragons adoss&#233;s et mordant chacun une grappe de raisins. La 4e r&#233;unit 2 reptiles &#224; t&#234;te de chien. <br /><br />Ce bestiaire fantastique alli&#233; &#224; des repr&#233;sentations humaines et v&#233;g&#233;tales conjugue une vision &#224; la fois symbolique et d&#233;corative. L&#130;ex&#233;cution de ces &#233;l&#233;ments peut &#234;tre situ&#233;e vers 1170, soit quelques ann&#233;es avant l&#130;incendie de l&#130;&#233;difice en 1185. Leur pr&#233;sence t&#233;moigne des transformations en sosus-oeuvre de l&#130;&#233;glise construite par Notger autour de l&#130;an Mil. "
+               },
+               "sousOeuvre" : [
+               ]
+          }
+     ]
+},
+{
+     "idLifi" : "9000019",
+     "mapNumber" : "104",
+     "coordinates" : "277-858",
+     "etage" : "2",
+     "oeuvre" : [
+     ]
+},
+{
+     "idLifi" : "9000016",
+     "mapNumber" : "69",
+     "coordinates" : "",
+     "etage" : "2",
+     "oeuvre" : [
+     ]
+},
+{
+     "idLifi" : "16193",
+     "mapNumber" : "19",
+     "coordinates" : "1377-669",
+     "etage" : "1",
+     "oeuvre" : [
+     ]
+},
+{
+     "idLifi" : "11499",
+     "mapNumber" : "20",
+     "coordinates" : "1282-746",
+     "etage" : "1",
+     "oeuvre" : [
+          {
+               "idOeuvre" : "GC.ARC.01a.1857.50089",
+               "coordOeuvre" : "1233,741",
+               "imageOeuvre" : "GC.ARC.01a.1857.50089-02.jpg",
+               "textes" : {
+                    "chapeauOeuvre" : "Cet autel en pierre de lave a &#233;t&#233; d&#233;couvert en 1810 dans des vignobles situ&#233;s en bordure du ruisseau Vinxtbach, en Allemagne. Dat&#233; du 3e si&#232;cle de notre &#232;re, l&#130;autel pr&#233;sente une table d&#130;offrandes garnie d&#130;un plateau de fruits. Une inscription d&#233;dicatoire s&#130;adresse &#224; Jupiter et &#224; Junon, ainsi qu&#130;au g&#233;nie protecteur du lieu o&#249; l&#130;autel avait &#233;t&#233; dress&#233;.",
+                    "legendeImageOeuvre" : "Autel votif de Vinxtbach. Grand Curtius, Li&#232;ge.",
+                    "titreOeuvre" : "Autel votif de Vinxtbach",
+                    "descriptionOeuvre" : "Le d&#233;dicant, un certain Tertinius Severus, &#233;tait soldat de la VIIIe l&#233;gion romaine. Il &#233;tait b&#233;n&#233;ficiaire consulaire, c&#130;est-&#224;-dire un officier en charge de tâches administratives comme la perception des impôts, la sûret&#233; du r&#233;seau routier ou le maintien de l&#130;ordre. "
+               },
+               "sousOeuvre" : [
+                    {
+                         "idSSOeuvre" : "7",
+                         "imageSSOeuvre" : "GC.ARC.01a.1857.50089-01.jpg",
+                         "textes" : {
+                              "chapeauSSOeuvre" : "Autel votif de Vinxtbach. D&#233;tails.",
+                              "legendeImageSSOeuvre" : "Autel votif de Vinxtbach. Grand Curtius, Li&#232;ge.",
+                              "descriptionSSOeuvre" : "Une haste de b&#233;n&#233;ficiaire (longue lance en fer), embl&#232;me de Tertinius Severus, est repr&#233;sent&#233; sur un des côt&#233;s de l&#130;autel."
+                         }
+                    },
+                    {
+                         "idSSOeuvre" : "8",
+                         "imageSSOeuvre" : "GC.ARC.01a.1857.50089-11.jpg",
+                         "textes" : {
+                              "chapeauSSOeuvre" : "Haste de b&#233;n&#233;ficiaire d&#233;couverte &#224; Ehl (Bas-Rhin, France). Mus&#233;e de Wiesbaden",
+                              "legendeImageSSOeuvre" : "Haste de b&#233;n&#233;ficiaire d&#233;couverte &#224; Ehl (Bas-Rhin, France). Mus&#233;e de Wiesbaden",
+                              "descriptionSSOeuvre" : "Une haste en fer sertie de laiton, d&#233;couverte &#224; Ehl, dans le d&#233;partement français du Bas-Rhin pr&#233;sente de nombreuses similitudes avec celle grav&#233;e sur cet autel votif. A l&#130;&#233;poque flavienne, vers l&#130;an 90 de notre &#232;re, la VIIIe l&#233;gion Augusta s&#130;&#233;tablit d&#233;finitivement &#224; Strasbourg, l&#130;antique Argentorate. Cette l&#233;gion cr&#233;&#233;e par Jules C&#233;sar s&#130;illustre brillamment durant la Guerre des Gaules, entre 58 et 51 avant J.-C."
+                         }
+                    },
+                    {
+                         "idSSOeuvre" : "9",
+                         "imageSSOeuvre" : "GC.ARC.01a.1857.50089-03.jpg",
+                         "textes" : {
+                              "chapeauSSOeuvre" : "Autel votif de Vinxtbach. D&#233;tails.",
+                              "legendeImageSSOeuvre" : "Autel votif de Vinxtbach. Grand Curtius, Li&#232;ge.",
+                              "descriptionSSOeuvre" : "Un autre côt&#233; de l&#130;autel est orn&#233; d&#130;une corne d&#130;abondance d&#233;bordant de fruits. "
+                         }
+                    }
+               ]
+          }
+     ]
+},
+{
+     "idLifi" : "15676",
+     "mapNumber" : "23",
+     "coordinates" : "1503-876",
+     "etage" : "1",
+     "oeuvre" : [
+          {
+               "idOeuvre" : "GC.ARC.01c.1910.50474",
+               "coordOeuvre" : "1503,83",
+               "imageOeuvre" : "GC.ARC.01c.1910.50474.jpg",
+               "textes" : {
+                    "chapeauOeuvre" : "Ce fragment de masque en terre cuite blanche a &#233;t&#233; d&#233;couvert en 1910, dans la cave d&#130;une villa romaine mise au jour &#224; Chardeneux-Bonsin (en province de Namur).  <br />",
+                    "legendeImageOeuvre" : "Masque d&#233;coratif de Bonsin.",
+                    "titreOeuvre" : "Masque d&#233;coratif de Bonsin",
+                    "descriptionOeuvre" : "<br />Le masque, de taille grandeur nature, a &#233;t&#233; façonn&#233; &#224; partir d&#130;un moule en plâtre. Les trous de fixation situ&#233;s au sommet du crâne et &#224; proximit&#233; des oreilles, de m&#234;me que les yeux, la bouche et les narines ont &#233;t&#233; perc&#233;s avant cuisson. Des traces de polychromie rouge sont encore visibles au niveau de lil gauche et de la chevelure. "
+               },
+               "sousOeuvre" : [
+                    {
+                         "idSSOeuvre" : "26",
+                         "imageSSOeuvre" : "GC.ARC.01c.1910.50474-14.jpg",
+                         "textes" : {
+                              "chapeauSSOeuvre" : "Mosaïque des Masques. Rome, Mus&#233;e du Capitole.",
+                              "legendeImageSSOeuvre" : "Mosaïque des Masques. Rome, Mus&#233;e du Capitole.",
+                              "descriptionSSOeuvre" : "Ces masques &#233;taient souvent consid&#233;r&#233;s comme des &#233;l&#233;ments de costumes de th&#233;âtre fix&#233;s au visage des acteurs au moyen de rubans ou de cordes. Aujourd&#130;hui on pense plutôt qu&#130;ils &#233;taient de simples &#233;l&#233;ments d&#233;coratifs ornant les colonnades et les murs des villas romaines."
+                         }
+                    },
+                    {
+                         "idSSOeuvre" : "27",
+                         "imageSSOeuvre" : "GC.ARC.01c.1910.50474-12.jpg",
+                         "textes" : {
+                              "chapeauSSOeuvre" : "Masque de faunesse (1er si&#232;cle avant J.-C). Mus&#233;e du Louvre, Paris.",
+                              "legendeImageSSOeuvre" : "Masque de faunesse (1er si&#232;cle avant J.-C). Mus&#233;e du Louvre, Paris.",
+                              "descriptionSSOeuvre" : "Cet exemplaire, produit entre la fin du 1er si&#232;cle et le d&#233;but du 3e si&#232;cle repr&#233;sente un faune.  La petite corne  et la forme des oreilles semblent confirmer cette th&#233;orie. "
+                         }
+                    },
+                    {
+                         "idSSOeuvre" : "28",
+                         "imageSSOeuvre" : "GC.ARC.01c.1910.50474-11.jpg",
+                         "textes" : {
+                              "chapeauSSOeuvre" : "Masque grotesque.",
+                              "legendeImageSSOeuvre" : "Masque grotesque.",
+                              "descriptionSSOeuvre" : "Les villes de Cologne et de Tr&#232;ves, en Allemagne, &#233;taient les deux principaux centres de production de masques au nord-ouest de l&#130;empire Romain. L&#130;atelier de la place Rudolf &#224; Cologne &#233;tait sp&#233;cialis&#233;e dans la production en s&#233;rie de masques grotesques. "
+                         }
+                    },
+                    {
+                         "idSSOeuvre" : "29",
+                         "imageSSOeuvre" : "GC.ARC.01c.1910.50474-13.jpg",
+                         "textes" : {
+                              "chapeauSSOeuvre" : "Fragment d&#130;un masque de type grotesque.",
+                              "legendeImageSSOeuvre" : "Fragment d&#130;un masque de type grotesque. Grand Curtius, Li&#232;ge.",
+                              "descriptionSSOeuvre" : "En 2001, l&#233;tude du mat&#233;riel arch&#233;ologique de Bonsin, issu des fouilles de 1910, a permis la d&#233;couverte dun fragment dun second masque appartenant &#224; la cat&#233;gorie des grotesques. "
+                         }
+                    }
+               ]
+          },
+          {
+               "idOeuvre" : "GC.ARC.01e.1968.46776",
+               "coordOeuvre" : "1335,597",
+               "imageOeuvre" : "GC.ARC.01e.1968.46776-01.jpg",
+               "textes" : {
+                    "chapeauOeuvre" : "En 1967, une cruche en bronze recelant quelques 1680 pi&#232;ces d&#130;argent est mise au jour lors d&#130;une campagne de fouilles men&#233;e &#224; Clavier-Vervoz, en province de Li&#232;ge. Ce d&#233;pôt mon&#233;taire est constitu&#233; d&#130;une th&#233;saurisation de 1085 deniers et de 595 antoniniens. ",
+                    "legendeImageOeuvre" : "Tr&#233;sor mon&#233;taire de Vervoz",
+                    "titreOeuvre" : "Tr&#233;sor mon&#233;taire de Vervoz",
+                    "descriptionOeuvre" : "Entre 250 et 270 de notre &#232;re, de nombreuses agglom&#233;rations de Gaule Belgique sont pill&#233;es et d&#233;truites par les Francs. Dans un tel contexte d&#130;ins&#233;curit&#233;, beaucoup de fortunes personnelles sont enfouies. Selon toute vraissemblance, ce tr&#233;sor mon&#233;taire a &#233;t&#233; enfoui en 255 ou en 256. La pi&#232;ce la plus ancienne est un denier &#224; l&#130;effigie de l&#130;empereur Commode, &#233;mis &#224; Rome en 186 ; la monnaie la plus r&#233;cente est un antoninien frapp&#233; sous le r&#232;gne de Gallien, en 254.<br /><br />L&#130;instabilit&#233; politique de l&#130;Empire et les d&#233;valuations mon&#233;taires successives ont incit&#233; bon nombre d&#130;&#233;pargnants &#224; conserver des monnaies de bon aloi. C&#130;est la raison pour laquelle le nombre de deniers est encore si important dans ce tr&#233;sor. <br /><br />Les monnaies &#233;mises dans les ateliers orientaux &#233;taient particuli&#232;rement appr&#233;ci&#233;es car leur poids et leur titre &#233;taient plus &#233;lev&#233;s que ceux des monnaies frapp&#233;es en Occident. Ainsi, 94 pi&#232;ces de ce tr&#233;sor ont &#233;t&#233; &#233;mises &#224; Antioche, en Turquie et &#224; Em&#232;se et Laodic&#233;e, en Syrie."
+               },
+               "sousOeuvre" : [
+                    {
+                         "idSSOeuvre" : "33",
+                         "imageSSOeuvre" : "GC.ARC.01e.1968.46776-11.jpg",
+                         "textes" : {
+                              "chapeauSSOeuvre" : "Tr&#233;sor de Vervoz. Antoninien &#224; leffigie de Gordien III (238-244).",
+                              "legendeImageSSOeuvre" : "Tr&#233;sor de Vervoz. Antoninien &#224; leffigie de Gordien III (238-244). Grand Curtius, Li&#232;ge. ",
+                              "descriptionSSOeuvre" : "L&#130;antoninien qui valait le double d&#130;un denier se reconnaît &#224; la couronne radi&#233;e coiffant l&#130;empereur et au croissant soulignant le buste de l&#130;imp&#233;ratrice. Cette valeur mon&#233;taire institu&#233;e en 215, sous l&#130;empereur Caracalla, a progressivement remplac&#233; le denier."
+                         }
+                    },
+                    {
+                         "idSSOeuvre" : "34",
+                         "imageSSOeuvre" : "GC.ARC.01e.1968.46776-12.jpg",
+                         "textes" : {
+                              "chapeauSSOeuvre" : "Tr&#233;sor du bois de Gives. Antoninien &#224; leffigie d&#130;Herennia Etruscilla, &#233;pouse de Trajan D&#232;ce (249-251). ",
+                              "legendeImageSSOeuvre" : "Tr&#233;sor du bois de Gives. Antoninien &#224; leffigie d&#130;Herennia Etruscilla, &#233;pouse de Trajan D&#232;ce (249-251). Grand Curtius, Li&#232;ge. ",
+                              "descriptionSSOeuvre" : "Pas de texte"
+                         }
+                    }
+               ]
+          }
+     ]
+},
+{
+     "idLifi" : "3445",
+     "mapNumber" : "26",
+     "coordinates" : "1443-895",
+     "etage" : "1",
+     "oeuvre" : [
+          {
+               "idOeuvre" : "GC.ARC.01a.1912.47353",
+               "coordOeuvre" : "1443,895",
+               "imageOeuvre" : "GC.ARC.01a.1912.47353-01.jpg",
+               "textes" : {
+                    "chapeauOeuvre" : "Cette « pierre &#224; 4 dieux », a &#233;t&#233; d&#233;couvert en juin 1869 lors de la restauration de l&#130;&#233;glise de Berg, pr&#232;s de Tongres. Elle est dat&#233;e du 2e ou du 3e si&#232;cle. ",
+                    "legendeImageOeuvre" : "Socle d&#130;un monument dit &#224; l&#130;anguip&#232;de. Grand Curtius, Li&#232;ge.",
+                    "titreOeuvre" : "Socle d&#130;un monument dit &#224; l&#130;anguip&#232;de",
+                    "descriptionOeuvre" : "Les 4 faces de cette pierre sont orn&#233;es d&#130;une divinit&#233; inscrite dans une niche. Deux divinit&#233;s f&#233;minines sont facilement identifiables par leurs attributs. Il s&#130;agit de Junon et de Fortune. Les deux autres semblent &#234;tre les dieux Mercure et Hercule. Bien connu dans l&#130;est de la Gaule et en Rh&#233;nanie, ce type de monument porte le nom de « colonne au Jupiter cavalier » ou «colonne au g&#233;ant anguip&#232;de ». "
+               },
+               "sousOeuvre" : [
+                    {
+                         "idSSOeuvre" : "19",
+                         "imageSSOeuvre" : "GC.ARC.01a.1912.47353-11.jpg",
+                         "textes" : {
+                              "chapeauSSOeuvre" : "Jupiter cavalier. Gallo-Romeins Museum de Tongres. ",
+                              "legendeImageSSOeuvre" : "Jupiter cavalier. Gallo-Romeins Museum de Tongres. Photo Guido Schalenbourg.<br />",
+                              "descriptionSSOeuvre" : "Cette pierre est le socle une colonne surmont&#233;e d&#130;une sculpture en ronde-bosse figurant un cavalier, souvent identifi&#233; &#224; Jupiter, terrassant un monstre dont le corps finit en queue de serpent."
+                         }
+                    },
+                    {
+                         "idSSOeuvre" : "20",
+                         "imageSSOeuvre" : "GC.ARC.01a.1912.47353-01.jpg",
+                         "textes" : {
+                              "chapeauSSOeuvre" : "Junon. D&#233;tail de la «pierre &#224; quatre dieux» de Berg, pr&#232;s de Tongres. ",
+                              "legendeImageSSOeuvre" : "Junon. D&#233;tail de la «pierre &#224; quatre dieux» de Berg, pr&#232;s de Tongres. Grand Curtius, Li&#232;ge.",
+                              "descriptionSSOeuvre" : "Protectrice des femmes, d&#233;esse de la f&#233;condit&#233; et du mariage, Junon est reconnaissable &#224; la torche qu&#130;elle tient dans sa main gauche et &#224; la coupelle qu&#130;elle garde dans sa main droite."
+                         }
+                    },
+                    {
+                         "idSSOeuvre" : "21",
+                         "imageSSOeuvre" : "GC.ARC.01a.1912.47353-02.jpg",
+                         "textes" : {
+                              "chapeauSSOeuvre" : "Fortune. D&#233;tail de la «pierre &#224; quatre dieux» de Berg, pr&#232;s de Tongres.",
+                              "legendeImageSSOeuvre" : "Fortune. D&#233;tail de la «pierre &#224; quatre dieux» de Berg, pr&#232;s de Tongres. Grand Curtius, Li&#232;ge.",
+                              "descriptionSSOeuvre" : "Fortune tient une corne d&#130;abondance dans sa main gauche tandis que sa main droite est pos&#233;e sur un gouvernail. Une roue figure &#224; ses pieds."
+                         }
+                    },
+                    {
+                         "idSSOeuvre" : "22",
+                         "imageSSOeuvre" : "GC.ARC.01a.1912.47353-03.jpg",
+                         "textes" : {
+                              "chapeauSSOeuvre" : "Mercure. D&#233;tail de la «pierre &#224; quatre dieux» de Berg, pr&#232;s de Tongres.",
+                              "legendeImageSSOeuvre" : "Mercure. D&#233;tail de la «pierre &#224; quatre dieux» de Berg, pr&#232;s de Tongres. Grand Curtius, Li&#232;ge.",
+                              "descriptionSSOeuvre" : "Le personnage v&#234;tu d&#130;un manteau court (la chlamyde) est vraisemblablement Mercure. Dieu du commerce et du voyage, il apparaît fr&#233;quemment sur ce type de pilier. Le quatri&#232;me personnage, dont il ne reste que peu de choses, pourrait &#234;tre Hercule, h&#233;ros &#224; la force l&#233;gendaire."
+                         }
+                    }
+               ]
+          }
+     ]
+},
+{
+     "idLifi" : "9000004",
+     "mapNumber" : "30",
+     "coordinates" : "378-496",
+     "etage" : "2",
+     "oeuvre" : [
+     ]
+},
+{
+     "idLifi" : "17571",
+     "mapNumber" : "31",
+     "coordinates" : "449-512",
+     "etage" : "2",
+     "oeuvre" : [
+          {
+               "idOeuvre" : "GC.ADC.02a.0000.73925",
+               "coordOeuvre" : "449,512",
+               "imageOeuvre" : "GC.ADC.02a.0000.73925-01.jpg",
+               "textes" : {
+                    "chapeauOeuvre" : "Le mus&#233;e conserve une collection importante d&#130;&#233;l&#233;ments sculpt&#233;s en marbre noir provenant fort vraisemblablement des carri&#232;res de Theux. Parmi ceux-ci, une grande console dont une des faces est d&#233;cor&#233;e d&#130;une remarquable sc&#232;ne de mise au tombeau datable du milieu du 16e si&#232;cle. Elle provient des fondations de l&#130;hôtel de Brigode autrefois situ&#233; place Verte, &#224; proximit&#233; de la cath&#233;drale Saint-Lambert.",
+                    "legendeImageOeuvre" : "La Mise au tombeau en marbre noir dit de Theux. Grand Curtius, Li&#232;ge.",
+                    "titreOeuvre" : "La Mise au tombeau et les marbres noirs dits de Theux",
+                    "descriptionOeuvre" : "Ces marbres noirs sont traditionnellement attribu&#233;s &#224; l&#130;atelier italo-li&#233;geois de la famille Palardin-Fiacre. Fond&#233; en 1518 par Nicolas Palardin dit l&#130;Italien ( 1522), auquel succ&#233;deront Nicolas II ( 1580) et son beau-fr&#232;re Martin Fiacre ( 1601), cet atelier connaîtra encore des prolongements dans le 17e si&#232;cle. Il convient cependant de signaler que d&#130;autres \"imagiers\", ayant travaill&#233; le m&#234;me mat&#233;riau, sont actifs &#224; Li&#232;ge &#224; la m&#234;me &#233;poque comme Lambert Suavius, Thomas Thollet ou François Borset sans que leur rapports de collaboration ou de concurrence avec les premiers ne soient aujourd&#130;hui clairement d&#233;finis."
+               },
+               "sousOeuvre" : [
+                    {
+                         "idSSOeuvre" : "105",
+                         "imageSSOeuvre" : "GC.ADC.02a.0000.73925-02.jpg",
+                         "textes" : {
+                              "chapeauSSOeuvre" : "Sc&#232;ne de crucifixion en marbre noir dit de Theux.",
+                              "legendeImageSSOeuvre" : "Sc&#232;ne de crucifixion en marbre noir dit de Theux. Grand Curtius, Li&#232;ge.",
+                              "descriptionSSOeuvre" : "L&#130;origine theutoise de l&#130;ensemble des pi&#232;ces de ce groupe m&#233;riterait &#233;galement une &#233;tude g&#233;ologique syst&#233;matique dans la mesure o&#249; il n&#130;est pas toujours commode de distinguer, &#224; l&#130;il nu, les marbres de Theux de ceux issus des carri&#232;res de Dinant.<br />Parmi les uvres que l&#130;on peut rapprocher de ce document exceptionnel figurent &#233;galement deux sc&#232;nes de crucifixion, mais aussi quelques documents dat&#233;s ou datables avec une relative pr&#233;cision. Il s&#130;agit d&#130;un gisant de 1537, d&#130;un b&#233;nitier aux armes d&#130;Helemaine Castaigne, abbesse du Val-Notre-Dame (pr&#232;s de Huy), dat&#233; de 1546, ainsi que de deux fragments de colonnettes provenant du jub&#233; de l&#130;&#233;glise des Pr&#233;montr&#233;s (ancienne abbaye de Beaurepart) datable de l&#130;abbatiat de L&#233;onard de Limbourg (1525-1546).<br />"
+                         }
+                    }
+               ]
+          }
+     ]
+},
+{
+     "idLifi" : "9905",
+     "mapNumber" : "32",
+     "coordinates" : "241-634",
+     "etage" : "2",
+     "oeuvre" : [
+          {
+               "idOeuvre" : "BA.WAL.05b.0000.2051",
+               "coordOeuvre" : "N/A",
+               "imageOeuvre" : "BA.WAL.05b.0000.2051-01.jpg",
+               "textes" : {
+                    "chapeauOeuvre" : "Cet ensemble provient de l&#130;importante abbaye cistercienne d&#130;Herckenrode. Il a &#233;t&#233; dispers&#233; peu apr&#232;s la R&#233;volution, en 1794.Chacun de ces tableaux repr&#233;sente un &#233;pisode inspir&#233; par la Bible ou l&#130;histoire romaine mettant en &#233;vidence la vertu ou le courage d&#130;un femme qui devenait ainsi objet de m&#233;ditation pour les religieuses. ",
+                    "legendeImageOeuvre" : "David et Abiga&#235;l. Grand Curtius, Li&#232;ge.",
+                    "titreOeuvre" : "Cycle des Femmes Vertueuses",
+                    "descriptionOeuvre" : "Ces 4 tableaux red&#233;couverts et identifi&#233;s, il y a quelques ann&#233;es (1989), dans les collections communales appartiennent &#224; une s&#233;rie de 8. Les 4 autres ont aussi &#233;t&#233; retrouv&#233;s r&#233;cemment (2004) &#224; l&#130;&#233;glise Saint-Amand de Stockrooie (Hasselt). "
+               },
+               "sousOeuvre" : [
+               ]
+          }
+     ]
+},
+{
+     "idLifi" : "9000005",
+     "mapNumber" : "34",
+     "coordinates" : "315-506",
+     "etage" : "2",
+     "oeuvre" : [
+     ]
+},
+{
+     "idLifi" : "9000006",
+     "mapNumber" : "36",
+     "coordinates" : "289-1219",
+     "etage" : "2",
+     "oeuvre" : [
+     ]
+},
+{
+     "idLifi" : "9001",
+     "mapNumber" : "38",
+     "coordinates" : "461-1418",
+     "etage" : "2",
+     "oeuvre" : [
+          {
+               "idOeuvre" : "GC.REL.02f.1883.32766",
+               "coordOeuvre" : "461,1418",
+               "imageOeuvre" : "GC.REL.02f.1883.32766.jpg",
+               "textes" : {
+                    "chapeauOeuvre" : "Cette Vierge juv&#233;nile &#233;crasant le serpent est lesquisse dune des deux grandes statues de marbre qui, avec un saint Bernard, flanquaient autrefois lautel du Saint-Sacrement de Miracle en l&#233;glise abbatiale de Herkenrode, aujourdhui &#224; N.D. de Hasselt. Cet ensemble fut command&#233; &#224; Del Cour vers 1680.",
+                    "legendeImageOeuvre" : "Immacul&#233;e Conception.Jena Del Cour,Grand Curtius, Li&#232;ge",
+                    "titreOeuvre" : "Immacul&#233;e Conception",
+                    "descriptionOeuvre" : "La r&#233;ception du Baroque en la Cit&#233; ardente se fit peu apr&#232;s le milieu du XVIIe si&#232;cle grâce &#224; lartiste li&#233;geois Jean Del Cour qui reçut sa formation dans lorbite de certains des grands maîtres de ce courant. Il devint ainsi le plus c&#233;l&#232;bre et le plus prolixe des sculpteurs baroques, non seulement de Li&#232;ge, mais de toute la Wallonie. <br /><br />N&#233; dans la paroisse de Xhignesse (Hamoir) en 1631, il fut dabord l&#233;l&#232;ve de Henrard, puis effectua un s&#233;jour de plusieurs ann&#233;es &#224; Rome, sans doute dans latelier du Bernin. Il revint en 1661&#224; Li&#232;ge o&#249; son carnet de commandes sest tr&#232;s rapidement rempli. Son catalogue comporte aujourdhui plus de deux cents uvres connues (jub&#233;s, autels, chaires de v&#233;rit&#233;, fontaines, chemin&#233;es, tombeaux, reliefs et statues, auxquels on ajoutera nombre de modelli et de bozzetti). Il travailla le bois, le marbre et livoire. Il fournit &#233;galement des mod&#232;les pour couler des statues en bronze ou en argent. <br />Le style envol&#233; de ses drap&#233;s, le balancement de ses attitudes, lexpressivit&#233; de ses gestes et de ses regards caract&#233;risent sa facture. Il ne fut pas pour rien qualifi&#233; de « Bernin li&#233;geois ». <br />Il neut quun &#233;l&#232;ve, Jean Hans, mais de nombreux sculpteurs, jusquau milieu du 18e si&#232;cle, se r&#233;clameront encore de ses mod&#232;les. Son fr&#232;re Jean-Gilles, peintre, r&#233;alisa le seul portrait connu de lui.<br /><br />La statuette est dune parfaite harmonie que lui conf&#232;rent la grande douceur des traits, la grâce du geste et la mod&#233;ration des effets du drap&#233;. On leur opposera ceux, plus envol&#233;s, qui animent la plupart des sculptures du maître li&#233;geois et en particulier cette autre « Immacul&#233;e » provenant de lancienne abbatiale li&#233;geoise de Saint-Jacques, aujourdhui &#224; Floreffe, dun mouvement plus flamboyant.<br /><br />"
+               },
+               "sousOeuvre" : [
+               ]
+          }
+     ]
+},
+{
+     "idLifi" : "9000007",
+     "mapNumber" : "39",
+     "coordinates" : "",
+     "etage" : "2",
+     "oeuvre" : [
+     ]
+},
+{
+     "idLifi" : "8140",
+     "mapNumber" : "42",
+     "coordinates" : "900-458",
+     "etage" : "2",
+     "oeuvre" : [
+          {
+               "idOeuvre" : "GC.ADC.02a.1862.61549",
+               "coordOeuvre" : "481,499",
+               "imageOeuvre" : "GC.ADC.02a.1862.61549.jpg",
+               "textes" : {
+                    "chapeauOeuvre" : "En Europe, la coutume d&#130;orner la pierre tombale des personnages de rang social &#233;lev&#233; commence &#224; se r&#233;pandre d&#232;s le 11e S. Celles-ci sont d&#233;cor&#233;es d&#130;une gravure, d&#130;un bas-relief ou d&#130;une statue repr&#233;sentant le d&#233;funt. Ce « gisant » y est d&#233;peint avec le costume qu&#130;un personnage de sa condition porte habituellement : robe, habit eccl&#233;siastique ou civil, armure de guerrier...",
+                    "legendeImageOeuvre" : "Pierre tombale du chevalier Antoine. Pays de Li&#232;ge, 1&#232;re moiti&#233; du 13e S. Grand Curtius, Li&#232;ge.",
+                    "titreOeuvre" : "Pierre tombale du chevalier Antoine",
+                    "descriptionOeuvre" : "Cette dalle fun&#233;raire, de facture particuli&#232;rement rudimentaire, a conserv&#233; la forme trap&#233;zoïdale primitive d&#130;un couvercle de sarcophage. Pourtant, d&#232;s cette &#233;poque, la plupart des autres exemples sont rectangulaires. Le personnage est repr&#233;sent&#233; en armes, selon la typologie du d&#233;but du 13e si&#232;cle. Il est qualifi&#233; de « chevalier Antoine » : ANTON [IVS] M [ILES]. Il doit s&#130;agir d&#130;un membre de la famille de Bols&#233;e, bienfaitrice de l&#130;ancien prieur&#233; de Saint-Nicolas-en-Glain, d&#233;moli en 1906, et d&#130;o&#249; provient ce monument."
+               },
+               "sousOeuvre" : [
+                    {
+                         "idSSOeuvre" : "86",
+                         "imageSSOeuvre" : "GC.ADC.02a.1862.61549-11.jpg",
+                         "textes" : {
+                              "chapeauSSOeuvre" : "Combat de chevaliers au d&#233;but du 13e si&#232;cle. R&#233;gion rh&#233;nane. Mus&#233;e Kersten, Hanovre.",
+                              "legendeImageSSOeuvre" : "Combat de chevaliers au d&#233;but du 13e si&#232;cle. R&#233;gion rh&#233;nane. Mus&#233;e Kersten, Hanovre.<br />",
+                              "descriptionSSOeuvre" : "Pas de texte"
+                         }
+                    },
+                    {
+                         "idSSOeuvre" : "87",
+                         "imageSSOeuvre" : "GC.ADC.02a.1862.61549-12.jpg",
+                         "textes" : {
+                              "chapeauSSOeuvre" : "Une veuve commande au tombier un monument fun&#233;raire commun o&#249; est d&#233;j&#224; grav&#233;e leffigie de son mari en armure. Miniature d&#130;apr&#232;s H. Haines, A Manual of Monumental Brasses, 1861.",
+                              "legendeImageSSOeuvre" : "Une veuve commande au tombier un monument fun&#233;raire commun o&#249; est d&#233;j&#224; grav&#233;e leffigie de son mari en armure. Miniature d&#130;apr&#232;s H. Haines, A Manual of Monumental Brasses, 1861.<br />",
+                              "descriptionSSOeuvre" : "Pas de texte"
+                         }
+                    }
+               ]
+          }
+     ]
+},
+{
+     "idLifi" : "16839",
+     "mapNumber" : "44",
+     "coordinates" : "981-448",
+     "etage" : "2",
+     "oeuvre" : [
+          {
+               "idOeuvre" : "GC.ADC.10e.1912.66248",
+               "coordOeuvre" : "966,439",
+               "imageOeuvre" : "GC.ADC.10e.1912.66248.jpg",
+               "textes" : {
+                    "chapeauOeuvre" : " <br />L&#130;&#233;vang&#233;liaire provient de la coll&#233;giale Saint-Jean-l&#130;Evang&#233;liste de Li&#232;ge dont Notger (980-1008) est le fondateur.<br />",
+                    "legendeImageOeuvre" : "Evang&#233;liaire dit de Notger. Grand Curtius, Li&#232;ge.",
+                    "titreOeuvre" : "L&#233;vang&#233;liaire dit de Notger",
+                    "descriptionOeuvre" : "Le plat sup&#233;rieur de la reliure est composite. En effet, on y distingue  des &#233;l&#233;ments remontant &#224; trois &#233;poques diff&#233;rentes. Le centre est occup&#233; par l&#130;ivoire dit de Notger et dat&#233; de la fin du 10e si&#232;cle. Autour se trouvent  8 &#233;maux, des ann&#233;es 1160. 4 plaques dor&#233;es et grav&#233;es, du 15e si&#232;cle, s&#130;inscrivent dans les interstices.   "
+               },
+               "sousOeuvre" : [
+                    {
+                         "idSSOeuvre" : "54",
+                         "imageSSOeuvre" : "GC.ADC.10e.1912.66248-11.jpg",
+                         "textes" : {
+                              "chapeauSSOeuvre" : "D&#233;tail int&#233;rieur de l&#130;&#233;vang&#233;liaire dit de Notger. Le Lion, attribut de l&#130;&#233;vang&#233;liste Marc.",
+                              "legendeImageSSOeuvre" : "D&#233;tail int&#233;rieur de l&#130;&#233;vang&#233;liaire dit de Notger. Le Lion, attribut de l&#130;&#233;vang&#233;liste Marc. Grand Curtius, Li&#232;ge.",
+                              "descriptionSSOeuvre" : "Le manuscrit que renferme cette reliure a sans doute &#233;t&#233; &#233;crit et d&#233;cor&#233; &#224; Li&#232;ge, fin 9e si&#232;cle. "
+                         }
+                    },
+                    {
+                         "idSSOeuvre" : "55",
+                         "imageSSOeuvre" : "GC.ADC.10e.1912.66248-12.jpg",
+                         "textes" : {
+                              "chapeauSSOeuvre" : "Ivoire de l&#130;&#233;vang&#233;liaire dit de Notger",
+                              "legendeImageSSOeuvre" : "Ivoire de l&#130;&#233;vang&#233;liaire dit de Notger. Grand Curtius, Li&#232;ge.",
+                              "descriptionSSOeuvre" : "L&#130;ivoire est l&#130;&#233;l&#233;ment le plus remarquable. On y voit le Christ en majest&#233; de l&#130;Apocalypse, b&#233;nissant de la main droite, les pieds pos&#233;s sur la sph&#232;re terrestre, entour&#233; des symboles des 4 &#233;vang&#233;listes. En dessous, le donateur fl&#233;chit le genou et tient en main un livre ouvert, sans doute un &#233;vangile. A droite, se dresse un &#233;dicule abritant un autel. Une inscription p&#233;riph&#233;rique : « Et moi Notger, accabl&#233; sous le poids du p&#233;ch&#233;, me voici fl&#233;chissant le genou devant Toi qui d&#130;un geste fais trembler l&#130;univers » semble d&#233;signer le personnage agenouill&#233; comme l&#130;&#233;v&#234;que faisant cadeau de son &#233;vang&#233;liaire &#224; son &#233;glise. Toutefois, son identit&#233; est controvers&#233;e. Si Notger est bien le commanditaire de l&#130;ivoire, pourquoi s&#130;est-il fait repr&#233;senter nimb&#233; d&#130;une aur&#233;ole comme un saint ou un dieu ? "
+                         }
+                    },
+                    {
+                         "idSSOeuvre" : "56",
+                         "imageSSOeuvre" : "GC.ADC.10e.1912.66248-13.jpg",
+                         "textes" : {
+                              "chapeauSSOeuvre" : "Le Fison. D&#233;tail de la reliure de lEvang&#233;liaire dit de Notger. Vers 1160. Li&#232;ge.",
+                              "legendeImageSSOeuvre" : "Le Fison. D&#233;tail de la reliure de lEvang&#233;liaire dit de Notger. Vers 1160. Li&#232;ge, Grand Curtius  ",
+                              "descriptionSSOeuvre" : "Les huit plaques d&#130;&#233;mail sont de style typiquement mosan. Elles repr&#233;sentent des figures all&#233;goriques de vertus (Courage, Justice et Temp&#233;rance) et les quatre fleuves du Paradis (Fison, G&#233;on, Tigre, Euphrate). Les personnages se distinguent par leur animation et un large usage d&#130;&#233;mail rouge, g&#233;n&#233;ralement utilis&#233; de mani&#232;re plus parcimonieuse. "
+                         }
+                    },
+                    {
+                         "idSSOeuvre" : "57",
+                         "imageSSOeuvre" : "GC.ADC.10e.1912.66248-14.jpg",
+                         "textes" : {
+                              "chapeauSSOeuvre" : "Evang&#233;liaire dit de Notger.",
+                              "legendeImageSSOeuvre" : "Evang&#233;liaire dit de Notger. Grand Curtius, Li&#232;ge.",
+                              "descriptionSSOeuvre" : "Les plaques cisel&#233;es de feuillages d&#233;chiquet&#233;s r&#233;v&#232;lent un style qui caract&#233;rise l&#130;orf&#232;vrerie gothique des ann&#233;es 1400."
+                         }
+                    }
+               ]
+          }
+     ]
+},
+{
+     "idLifi" : "20930",
+     "mapNumber" : "47",
+     "coordinates" : "1146-433",
+     "etage" : "2",
+     "oeuvre" : [
+          {
+               "idOeuvre" : "GC.ADC.02d.1955.67106",
+               "coordOeuvre" : "1350,485",
+               "imageOeuvre" : "GC.ADC.02d.1955.67106.jpg",
+               "textes" : {
+                    "chapeauOeuvre" : "Cet objet fut d&#233;couvert fortuitement &#224; Amay, pr&#232;s de Huy, si&#232;ge dun ancien chapitre de chanoines fond&#233; &#224; lemplacement dune &#233;glise d&#233;di&#233;e &#224; saint Georges par sainte Ode au 7e s.",
+                    "legendeImageOeuvre" : "Plaque au Christ \"Pantocrator\" dite Ivoire d&#130;Amay",
+                    "titreOeuvre" : "Plaque au Christ \"Pantocrator\" dite Ivoire d&#130;Amay",
+                    "descriptionOeuvre" : "Le Christ, la t&#234;te entour&#233;e dun nimbe crucif&#232;re, porte le livre de Vie de la main gauche et b&#233;nit de la dextre. Son geste de b&#233;n&#233;diction est particulier, puisque, contrairement &#224; la b&#233;n&#233;diction traditionnelle en Occident (lindex et le majeur dress&#233;s), ici tous les doigts sont dress&#233;s, &#224; lexception du majeur, maintenu par le pouce. La silhouette de face, cantonn&#233;e de deux rosaces, est inscrite dans un m&#233;daillon entour&#233; dun entrelacs. Autour de ce dernier, quatre autres m&#233;daillons plus petits et cern&#233;s dun perl&#233; renferment les symboles des &#233;vang&#233;listes : en haut, lange de saint Matthieu et  laigle de saint Jean ; en bas, le lion de saint Marc et le buf de saint Luc. Chacun tient ouvert le livre de son &#233;vangile. Ces m&#233;daillons sont r&#233;unis par une rosace semblable &#224; celles situ&#233;es de part et dautre du Christ. Des motifs dacanthes occupent les &#233;coinçons.<br /><br />Cette plaque occupa sans doute le plat de reliure dun &#233;vang&#233;liaire semblable &#224; plusieurs sp&#233;cimens  m&#233;di&#233;vaux conserv&#233;s. Leffigie du Christ est fort impr&#233;gn&#233;e de mod&#232;les byzantins : la silhouette &#224; mi-corps, lattitude sinspirent du type Pantocrator ( Maître du monde) qui trouve ses origines &#224; Byzance. Il en est de m&#234;me pour le geste de b&#233;n&#233;diction. Mais ces &#233;l&#233;ments sont &#233;galement pr&#233;sents d&#232;s l&#233;poque carolingienne dans lart occidental.<br /><br />Cette uvre semble donc se situer &#224; la rencontre de ces deux traditions, &#224; laquelle fut associ&#233;, comme pour se d&#233;marquer du mod&#232;le byzantin, lentrelacs dont la pr&#233;sence sinscrit dans le prolongement des mod&#232;les insulaires r&#233;pandus jusquau 12e s. dans lart roman."
+               },
+               "sousOeuvre" : [
+               ]
+          }
+     ]
+},
+{
+     "idLifi" : "20413",
+     "mapNumber" : "49",
+     "coordinates" : "1334-332",
+     "etage" : "2",
+     "oeuvre" : [
+          {
+               "idOeuvre" : "GC.ADC.25a.0000.66247",
+               "coordOeuvre" : "1302,303",
+               "imageOeuvre" : "GC.ADC.25a.0000.66247.jpg",
+               "textes" : {
+                    "chapeauOeuvre" : "Les &#233;glises et monast&#232;res poss&#232;dent un obituaire, c&#130;est-&#224;-dire un registre o&#249; sont inscrits - au jour de leur d&#233;c&#232;s - le nom des bienfaiteurs, des abb&#233;s, des moines et autres personnes associ&#233;es &#224; la vie de l&#130;abbaye. R&#233;dig&#233; sur parchemin, cet obituaire est destin&#233; &#224; l&#130;usage du prieur&#233; des chanoines augustins du Neufmoustier, aux portes de Huy.  La fondation du prieur&#233; est attribu&#233;e &#224; Pierre l&#130;Ermite, pr&#233;dicateur de la premi&#232;re croisade.",
+                    "legendeImageOeuvre" : "Obituaire du Neufmoustier. Grand Curtius, Li&#232;ge.",
+                    "titreOeuvre" : "Obituaire du Neufmoustier",
+                    "descriptionOeuvre" : "Ce livre manuscrit  contient un calendrier, les noms des membres de la communaut&#233; et de ses bienfaiteurs. Ces notes ont &#233;t&#233; &#233;crites vers 1130. Elles constituent l&#130;une des sources principales pour la  connaissance de la vie &#233;conomique de l&#130;institution et de la vie de la cit&#233;. "
+               },
+               "sousOeuvre" : [
+                    {
+                         "idSSOeuvre" : "61",
+                         "imageSSOeuvre" : "GC.ADC.25a.0000.66247-11.jpg",
+                         "textes" : {
+                              "chapeauSSOeuvre" : "Vue du prieur&#233; du Neufmoustier, 1649. Huy, Mus&#233;e Communal.",
+                              "legendeImageSSOeuvre" : "Vue du prieur&#233; du Neufmoustier, 1649. Huy, Mus&#233;e Communal.",
+                              "descriptionSSOeuvre" : "Le manuscrit contient plusieurs mentions de grand  int&#233;r&#234;t comme des informations relatives &#224; Pierre l&#130;Ermite, revenu &#224; Huy apr&#232;s la conqu&#234;te de la Terre Sainte pour y fonder &#224; Neufmoustier une &#233;glise."
+                         }
+                    },
+                    {
+                         "idSSOeuvre" : "62",
+                         "imageSSOeuvre" : "GC.ADC.25a.0000.66247-12.jpg",
+                         "textes" : {
+                              "chapeauSSOeuvre" : "Châsse de saint Domitien. Vers 1172. Huy, Tr&#233;sor de l&#233;glise N.D.",
+                              "legendeImageSSOeuvre" : "Châsse de saint Domitien. Vers 1172. Huy, Tr&#233;sor de l&#233;glise N.D.",
+                              "descriptionSSOeuvre" : "L&#130;attention se porte surtout sur 2 mentions d&#130;orf&#232;vres dont le nom reste attach&#233; &#224; quelques chefs-uvre de l&#130;orf&#232;vrerie mosane. Le premier, Renier, s&#130;est vu depuis le 14e si&#232;cle, attribuer la r&#233;alisation des c&#233;l&#232;bres fonts baptismaux aujourd&#130;hui &#224; l&#130;&#233;glise Saint-Barth&#233;lemy de Li&#232;ge. Le deuxi&#232;me, « Godefroid de Huy », qui deviendra chanoine &#224; Neufmoustier, connait une grande notori&#233;t&#233; comme orf&#232;vre. "
+                         }
+                    },
+                    {
+                         "idSSOeuvre" : "63",
+                         "imageSSOeuvre" : "GC.ADC.25a.0000.66247-13.jpg",
+                         "textes" : {
+                              "chapeauSSOeuvre" : "Motif au vernis brun de la châsse de saint Domitien. Vers 1172. Huy, Tr&#233;sor de l&#233;glise N.D.",
+                              "legendeImageSSOeuvre" : "Motif au vernis brun de la châsse de saint Domitien. Vers 1172. Huy, Tr&#233;sor de l&#233;glise N.D. ",
+                              "descriptionSSOeuvre" : "Godefroid de Huy est notamment l&#130;auteur, vers 1172,  des châsses de saint Domicien et de saint Mengold, conserv&#233;es dans le tr&#233;sor de la coll&#233;giale de Huy."
+                         }
+                    }
+               ]
+          },
+          {
+               "idOeuvre" : "GC.REL.10a.1981.34002",
+               "coordOeuvre" : "1330,299",
+               "imageOeuvre" : "GC.REL.10a.1981.34002-04.jpg",
+               "textes" : {
+                    "chapeauOeuvre" : "En 1006, l&#130;empereur Henri II offre des reliques de la Vraie Croix &#224; la coll&#233;giale Sainte-Croix de Li&#232;ge. Ces fragments sont dispos&#233;s dans une petite croix en or, prot&#233;g&#233;s par une fen&#234;tre et accompagn&#233;s de l&#130;inscription latine LIGNVM VITE (Arbre de Vie). Peu apr&#232;s le milieu du 12e si&#232;cle, l&#130;ensemble est int&#233;gr&#233; au centre d&#130;un reliquaire &#224; 3 panneaux appel&#233; triptyque dont l&#130;iconographie est d&#233;di&#233;e &#224; la R&#233;demption, c&#130;est-&#224;-dire au rachat des p&#233;ch&#233;s.",
+                    "legendeImageOeuvre" : "Triptyque de la Sainte-Croix. Grand Curtius, Li&#232;ge.",
+                    "titreOeuvre" : "Triptyque de la Sainte Croix",
+                    "descriptionOeuvre" : "Le r&#233;ceptacle contenant les reliques de la croix est support&#233; par les all&#233;gories des vertus de la V&#233;rit&#233; et du Jugement. "
+               },
+               "sousOeuvre" : [
+                    {
+                         "idSSOeuvre" : "64",
+                         "imageSSOeuvre" : "GC.REL.10a.1981.34002-01.jpg",
+                         "textes" : {
+                              "chapeauSSOeuvre" : "Triptyque de la Sainte-Croix, d&#233;tail.",
+                              "legendeImageSSOeuvre" : "Triptyque de la Sainte-Croix, d&#233;tail. Grand Curtius, Li&#232;ge.",
+                              "descriptionSSOeuvre" : "Sous les all&#233;gories des vertus de la V&#233;rit&#233; et du Jugement sont repr&#233;sent&#233;s 5 bustes de personnages portant l&#130;aur&#233;ole. Ils sont accompagn&#233;s de l&#130;inscription RESVRRECTIO SANCTORUM (les saints ressuscit&#233;s). Le fond du panneau central est occup&#233; par les instruments de la Passion du Christ : la couronne, les clous, le seau &#224; vinaigre. Entre eux sont inscrits les mots VERITAS (V&#233;rit&#233;) et IVCIDIVM (Jugement). "
+                         }
+                    },
+                    {
+                         "idSSOeuvre" : "65",
+                         "imageSSOeuvre" : "GC.REL.10a.1981.34002-03.jpg",
+                         "textes" : {
+                              "chapeauSSOeuvre" : "Triptyque de Sainte-Croix. Email « MISERICORDIA ».",
+                              "legendeImageSSOeuvre" : "Triptyque de Sainte-Croix. Email « MISERICORDIA ». Vers 1160. Grand Curtius, Li&#232;ge.",
+                              "descriptionSSOeuvre" : "Au centre, sous un cabochon en cristal de roche, une petite cavit&#233; renferme les reliques de saint Jean-Baptiste et de saint Vincent."
+                         }
+                    },
+                    {
+                         "idSSOeuvre" : "66",
+                         "imageSSOeuvre" : "GC.REL.10a.1981.34002-11.jpg",
+                         "textes" : {
+                              "chapeauSSOeuvre" : "Châsse de saint Mengold. Ange de la toiture. Vers 1172. Tr&#233;sor de la coll&#233;giale N.D. , Huy.",
+                              "legendeImageSSOeuvre" : "Châsse de saint Mengold. Ange de la toiture. Vers 1172. Tr&#233;sor de la coll&#233;giale N.D. , Huy.",
+                              "descriptionSSOeuvre" : "Stylistiquement, l&#130;uvre est associ&#233;e &#224; la production g&#233;n&#233;ralement attribu&#233;e &#224; l&#130;orf&#232;vre Godefroid de Huy. Cependant, un examen attentif y d&#233;c&#232;le plusieurs mains et ateliers. N&#233;anmoins, les parent&#233;s stylistiques entre les all&#233;gories des vertus du triptyque et les anges de la toiture de la châsse de saint Mengold, conserv&#233;e &#224; la coll&#233;giale de Huy, sont tellement &#233;troites qu&#130;on peut les attribuer &#224; cet artiste. "
+                         }
+                    },
+                    {
+                         "idSSOeuvre" : "67",
+                         "imageSSOeuvre" : "GC.REL.10a.1981.34002-14.jpg",
+                         "textes" : {
+                              "chapeauSSOeuvre" : "Triptyque de la sainte Croix. Vers 1160.  Metropolitan Museum, New York.",
+                              "legendeImageSSOeuvre" : "Triptyque de la sainte Croix. Vers 1160.  Metropolitan Museum, New York.",
+                              "descriptionSSOeuvre" : "Les chemins menant au Salut sont &#233;voqu&#233;s &#224; travers les all&#233;gories des vertus que lon retrouve, dans la m&#234;me position, dans un autre triptyque du Mus&#233;e des Cloîtres &#224; New York."
+                         }
+                    },
+                    {
+                         "idSSOeuvre" : "68",
+                         "imageSSOeuvre" : "GC.REL.10a.1981.34002-12.jpg",
+                         "textes" : {
+                              "chapeauSSOeuvre" : "Li&#232;ge, &#233;glise Sainte-Croix.",
+                              "legendeImageSSOeuvre" : "Li&#232;ge, &#233;glise Sainte-Croix.",
+                              "descriptionSSOeuvre" : "Pas de texte"
+                         }
+                    }
+               ]
+          }
+     ]
+},
+{
+     "idLifi" : "9000008",
+     "mapNumber" : "51",
+     "coordinates" : "1449-314",
+     "etage" : "2",
+     "oeuvre" : [
+     ]
+},
+{
+     "idLifi" : "9000009",
+     "mapNumber" : "52",
+     "coordinates" : "1521-304",
+     "etage" : "2",
+     "oeuvre" : [
+     ]
+},
+{
+     "idLifi" : "16408",
+     "mapNumber" : "53",
+     "coordinates" : "1592-295",
+     "etage" : "2",
+     "oeuvre" : [
+          {
+               "idOeuvre" : "GC.REL.02a.1937.34038",
+               "coordOeuvre" : "1592,357",
+               "imageOeuvre" : "GC.REL.02a.1937.34038.jpg",
+               "textes" : {
+                    "chapeauOeuvre" : "Sept fragments de frise int&#233;grant dix chapiteaux proviennent dun ancien cancel &#233;lev&#233; par labb&#233; Drogon (+1173) en l&#233;glise abbatiale Saint-Jacques &#224; Li&#232;ge. Ils constituaient une frise continue d&#233;cor&#233;e de motifs vari&#233;s : on y voit des hommes en tunique taillant la vigne, des rinceaux, des fruits, des palmettes, divers animaux dont des oiseaux picorant des grains de raisin, des lions ou des oiseaux affront&#233;s. ",
+                    "legendeImageOeuvre" : "Fragment de frise de cancel. Grand Curtius, Li&#232;ge.",
+                    "titreOeuvre" : "Fragment de frise de cancel",
+                    "descriptionOeuvre" : "La frise reposait sur des colonnes monolithes appuy&#233;es sur des bases &#224; double tore et sachevant par des chapiteaux en corbeille, sculpt&#233;s de palmettes. Le style des motifs peut &#234;tre rapproch&#233; dun autre fragment de frise provenant vraisemblablement de lancienne abbatiale de Saint-Trond (ancienne collection Govaerts) et m&#234;me tr&#232;s vraisemblablement de la chapelle qui abritait les reliques de saint Trudon &#233;lev&#233;e par labb&#233; Wiric entre 1169 et 1172. "
+               },
+               "sousOeuvre" : [
+                    {
+                         "idSSOeuvre" : "73",
+                         "imageSSOeuvre" : "GC.REL.02a.1937.34038-11.jpg",
+                         "textes" : {
+                              "chapeauSSOeuvre" : "Fragment de frise de cancel, d&#233;tail. ",
+                              "legendeImageSSOeuvre" : "Fragment de frise de cancel, d&#233;tail. Grand Curtius, Li&#232;ge.",
+                              "descriptionSSOeuvre" : "De nombreux vestiges de la polychromie originelle subsistent, quil conviendrait de d&#233;gager, parmi lesquels des traces de dorure. "
+                         }
+                    }
+               ]
+          }
+     ]
+},
+{
+     "idLifi" : "9000010",
+     "mapNumber" : "55",
+     "coordinates" : "1350-485",
+     "etage" : "2",
+     "oeuvre" : [
+     ]
+},
+{
+     "idLifi" : "16968",
+     "mapNumber" : "56",
+     "coordinates" : "1364-603",
+     "etage" : "2",
+     "oeuvre" : [
+          {
+               "idOeuvre" : "GC.REL.09.1998.34043",
+               "coordOeuvre" : "1336,64",
+               "imageOeuvre" : "GC.REL.09.1998.34043-01.jpg",
+               "textes" : {
+                    "chapeauOeuvre" : "L&#130;art du vitrail du Haut Moyen Âge est tr&#232;s peu repr&#233;sent&#233; dans les collections belges. Pourtant, un certain nombre d&#130;indices laissent penser qu&#130;il a &#233;t&#233; r&#233;pandu d&#232;s le 9e si&#232;cle dans certains &#233;difices mosans. ",
+                    "legendeImageOeuvre" : "Vitrail au calvaire. Westphalie, 2e quart du 13e S. Grand Curtius, Li&#232;ge.",
+                    "titreOeuvre" : "Vitrail au calvaire",
+                    "descriptionOeuvre" : "Le Christ en croix est entour&#233; de la Vierge et de saint Jean. Sa stature est droite, les bras perpendiculaires au corps, les pieds superpos&#233;s, dans un type de repr&#233;sentation situ&#233; entre le Roman et le Gothique. La Vierge et saint Jean refl&#232;tent d&#130;un certain mani&#233;risme dans l&#130;expression de leur tristesse. Selon la mode du 13e si&#232;cle, les couleurs sont domin&#233;es par le rouge, le bleu et le vert. <br /><br />Les collections du Mus&#233;e poss&#232;dent un fonds darchives de lune des plus importantes dynasties de maîtres-verriers en Wallonie aux 19e et 20e si&#232;cles : latelier Osterrath, install&#233; &#224; Li&#232;ge &#224; partir des ann&#233;es 1880. Ce panneau de vitrail faisait partie de leur patrimoine. L&#130;uvre &#233;tait sans doute consid&#233;r&#233;e &#224; leurs yeux comme un sp&#233;cimen particuli&#232;rement remarquable du savoir-faire m&#233;di&#233;val. Quelques verres ont &#233;t&#233; renouvel&#233;s, sans doute au 19e si&#232;cle, dans un certain esprit d&#130;int&#233;gration. <br />"
+               },
+               "sousOeuvre" : [
+                    {
+                         "idSSOeuvre" : "78",
+                         "imageSSOeuvre" : "GC.REL.09.1998.34043-11.jpg",
+                         "textes" : {
+                              "chapeauSSOeuvre" : "Lien 2 vers 40.",
+                              "legendeImageSSOeuvre" : "Propteikirche dArnsberg (Westphalie). Vue du chur.",
+                              "descriptionSSOeuvre" : "Cette uvre provient du m&#234;me atelier que les vitraux de l&#130;&#233;glise d&#130;Arnsberg (en Westphalie), dans le milieu du 13e si&#232;cle. A l&#130;&#233;poque, cette r&#233;gion constitue encore, avec la vall&#233;e du Rhin et celle de la Meuse, un vaste territoire ob&#233;issant &#224; des normes stylistiques semblables."
+                         }
+                    }
+               ]
+          }
+     ]
+},
+{
+     "idLifi" : "8269",
+     "mapNumber" : "57",
+     "coordinates" : "1378-681",
+     "etage" : "2",
+     "oeuvre" : [
+          {
+               "idOeuvre" : "GC.REL.02b.1979.34044",
+               "coordOeuvre" : "1366,699",
+               "imageOeuvre" : "GC.REL.02b.1979.34044-01.jpg",
+               "textes" : {
+                    "chapeauOeuvre" : "Ce Christ (aujourdhui priv&#233; de sa croix) est lune des sculptures les plus monumentales de lArt mosan.",
+                    "legendeImageOeuvre" : "Christ en croix. R&#233;gion mosane, vers 1260. Grand Curtius, Li&#232;ge.",
+                    "titreOeuvre" : "Christ en croix. R&#233;gion mosane, vers 1260.",
+                    "descriptionOeuvre" : "Les bras en sont largement &#233;tendus, dessinant un « W » &#233;tir&#233;, les mains longues, aux pouces en adduction. La t&#234;te est ceinte dune couronne d&#233;pines torsad&#233;e. Les yeux ouverts conf&#232;rent au visage une expression de d&#233;tresse. Lanatomie est partiellement stylis&#233;e.<br /><br />Les pieds ainsi que la main droite ont anciennement &#233;t&#233; restaur&#233;s. Un badigeon blanc a uniform&#233;ment recouvert le tout, anim&#233; seulement de rehauts de couleur brun clair sur la barbe et la chevelure.<br /><br />Par certains traits : horizontalit&#233; des bras, position des pouces, statisme du corps, loeuvre entre partiellement dans une conception triomphaliste du Crucifi&#233; correspondant aux conceptions des 11e et 12e S.<br />Stylistiquement cependant, le Christ du Frenay poss&#232;de des caract&#233;ristiques qui correspondent &#224; une vision plus naturaliste de la sculpture. Il se situe &#224; ce titre vers 1260. <br /><br />Inscrit dans une longue tradition, son auteur a privil&#233;gi&#233; une silhouette de Christ en majest&#233;, vainqueur de la mort.  Mais la douleur exprim&#233;e dans les traits du visage, avec une intensit&#233; contenue et sans affecter le corps, marque d&#233;j&#224; sa volont&#233; dint&#233;grer loeuvre dans lHumanit&#233; vivante et souffrante, en sacrifiant &#224; quelques nouvelles modes formelles : longueur du drap&#233;, superposition des pieds, couronne d&#233;pines."
+               },
+               "sousOeuvre" : [
+               ]
+          }
+     ]
+},
+{
+     "idLifi" : "11240",
+     "mapNumber" : "60",
+     "coordinates" : "1493-898",
+     "etage" : "2",
+     "oeuvre" : [
+          {
+               "idOeuvre" : "GC.REL.02a.1978.34048",
+               "coordOeuvre" : "1528,838",
+               "imageOeuvre" : "GC.REL.02a.1978.34048.jpg",
+               "textes" : {
+                    "chapeauOeuvre" : "Nicod&#232;me et Joseph dArimathie d&#233;posent avec recueillement le corps du Christ dans le tombeau. Pench&#233;s dans le m&#234;me mouvement, les deux vieillards coiff&#233;s du bonnet juif offrent un visage empreint dune douce gravit&#233;. ",
+                    "legendeImageOeuvre" : "Mise au tombeau. R&#233;gion mosane, Huy (?), vers 1340. Grand Curtius, Li&#232;ge.",
+                    "titreOeuvre" : "Mise au tombeau",
+                    "descriptionOeuvre" : "Spiritualit&#233;, abstraction, lin&#233;arit&#233; traduisent toute la sensibilit&#233; qui marque la production des sculpteurs sur marbre mosans du 14e si&#232;cle. La gravit&#233; des expressions ainsi que limportance accord&#233;e par lartiste &#224; laspect gestuel des personnages signalent sans doute une influence de la peinture italienne du 14e S.<br /><br />Luvre est repr&#233;sentative de la production mosane en marbre de Carrare &#224; cette &#233;poque. Cest dans ce mat&#233;riau blanc, au grain cristallin, import&#233; de Toscane que sexerça le talent de plusieurs ateliers mosans &#224; cette &#233;poque. La pr&#233;sence de sculpteurs mosans &#224; Carrare, sans doute aux fins dy choisir leur mat&#233;riau, est tr&#232;s vraisemblable."
+               },
+               "sousOeuvre" : [
+               ]
+          }
+     ]
+},
+{
+     "idLifi" : "13351",
+     "mapNumber" : "63",
+     "coordinates" : "1718-968",
+     "etage" : "2",
+     "oeuvre" : [
+          {
+               "idOeuvre" : "GC.REL.05a.1891.34054",
+               "coordOeuvre" : "1740,991",
+               "imageOeuvre" : "GC.REL.05a.1891.34054.jpg",
+               "textes" : {
+                    "chapeauOeuvre" : "Ce petit panneau peint dans les Flandres vers 1480, montre une sc&#232;ne de la l&#233;gende de saint Bernard. Cet &#233;pisode du Miracle de Châtillon-sur-Seine, impliquant le saint r&#233;formateur de l&#130;ordre, est tr&#232;s populaire dans le milieu cistercien. Saint Bernard aurait invoqu&#233; la Vierge en lui disant « Montre moi que tu es ma m&#232;re ». Celle-ci fit jaillir un jet de lait de son sein dans la bouche de saint Bernard. ",
+                    "legendeImageOeuvre" : "La lactation de saint Bernard. Flandres, vers 1480. Grand Curtius, Li&#232;ge.",
+                    "titreOeuvre" : "La lactation de saint Bernard. Flandres, vers 1480.",
+                    "descriptionOeuvre" : "La Vierge est repr&#233;sent&#233;e assise sous un dais de velours et tient l&#130;Enfant sur ses genoux. Saint Bernard est v&#234;tu du costume cistercien blanc. Il tient un livre ouvert dans la main gauche, sans doute la R&#232;gle cistercienne et la crosse abbatiale dans la droite. L&#130;invocation « Monstra te esse matrem » (Montre-moi que tu es ma m&#232;re) semble sortir de sa bouche. Les personnages se d&#233;tachent &#224; l&#130;avant-plan sur un paysage vallonn&#233;, domin&#233; par une abbatiale gothique et des bâtiments claustraux aupr&#232;s desquels 2 religieux discutent.<br /><br />Ce tableau est une des interpr&#233;tations les plus po&#233;tiques et les plus raffin&#233;es du miracle. Les traits particuli&#232;rement personnalis&#233;s de saint Bernard en t&#233;moignent, laissant penser qu&#130;il s&#130;agit peut-&#234;tre d&#130;un portrait. "
+               },
+               "sousOeuvre" : [
+               ]
+          },
+          {
+               "idOeuvre" : "GC.REL.05a.1910.34053",
+               "coordOeuvre" : "1702,991",
+               "imageOeuvre" : "GC.REL.05a.1910.34053.jpg",
+               "textes" : {
+                    "chapeauOeuvre" : "<br />Cette peinture est attribu&#233;e &#224; un peintre bruxellois vers 1475 que l&#130;on a conventionnellement appel&#233; le Maître &#224; la Vue de sainte Gudule.",
+                    "legendeImageOeuvre" : "Vierge &#224; la donatrice et sainte Marie-Madeleine. Attr. Au Maître &#224; la Vue de sainte Gudule, Bruxelles, vers 1475. Grand Curtius, Li&#232;ge.",
+                    "titreOeuvre" : "Vierge &#224; la donatrice et sainte Marie-Madeleine",
+                    "descriptionOeuvre" : "Dans ce petit tableau sur bois,  3 espaces se succ&#232;dent. La sc&#232;ne principale occupe le 1e plan, pi&#232;ce ouverte sur l&#130;ext&#233;rieur par 3 baies. La lumi&#232;re y &#233;claire la Vierge assise portant l&#130;Enfant, sainte Marie-Madeleine debout tenant le vase d&#130;onguent, et la donatrice agenouill&#233;e devant un prie-Dieu sur lequel repose un missel. Le lien entre celle-ci et le groupe marial est concr&#233;tis&#233; par un rosaire que l&#130;Enfant, espi&#232;gle, saisit des 2 mains. L&#130;espace suivant se d&#233;couvre au-del&#224; de la baie. Il donne sur un  jardin en plate-bandes aux essences d&#233;licates. Cet espace po&#233;tique semble conçu comme une transition entre l&#130;espace sacr&#233; du premier plan et celui, profane, qui se d&#233;couvre par del&#224; le muret du jardin. 3 personnages v&#234;tus &#224; la mode bourguignonne y prennent appui et contemplent le paysage. Le 3e plan montre sur la gauche une ville portuaire cern&#233;e de murailles, &#224; droite des rochers escarp&#233;s, et entre les 2, un bras de mer sillonn&#233; de quelques bateaux. "
+               },
+               "sousOeuvre" : [
+                    {
+                         "idSSOeuvre" : "82",
+                         "imageSSOeuvre" : "GC.REL.05a.1910.34053-11.jpg",
+                         "textes" : {
+                              "chapeauSSOeuvre" : "La Vierge au chancelier Rolin. Jean van Eyck, 1435. Mus&#233;e du Louvre, Paris.",
+                              "legendeImageSSOeuvre" : "La Vierge au chancelier Rolin. Jean van Eyck, 1435. Mus&#233;e du Louvre, Paris.",
+                              "descriptionSSOeuvre" : "L&#130;h&#233;ritage du peintre Jean van Eyck est dominant dans la composition de ce tableau. C&#130;est la c&#233;l&#232;bre Vierge au chancelier Rolin qui l&#130;a inspir&#233;e, par l&#130;interm&#233;diaire d&#130;une uvre de Roger van der Weyden repr&#233;sentant saint Luc peignant la Vierge. <br /><br />Outre la composition, l&#130;h&#233;ritage de van Eyck se perçoit dans les valeurs picturales que les maîtres flamands ont port&#233; &#224; leur perfection, en particulier  ici dans le rendu des mati&#232;res et des pr&#233;cieux textiles tels que le brocart de la robe de la Vierge, le velours v&#233;nitien du dais ou encore la fourrure de la robe de la donatrice. "
+                         }
+                    },
+                    {
+                         "idSSOeuvre" : "83",
+                         "imageSSOeuvre" : "GC.REL.05a.1910.34053-12.jpg",
+                         "textes" : {
+                              "chapeauSSOeuvre" : "Saint Luc dessinant la Vierge, Roger van der Weyden. 2. Saint Luc peignant la Vierge. Museum of Fine Arts, Boston.",
+                              "legendeImageSSOeuvre" : "Saint Luc dessinant la Vierge, Roger van der Weyden. 2. Saint Luc peignant la Vierge. Museum of Fine Arts, Boston.<br />",
+                              "descriptionSSOeuvre" : "Pas de texte"
+                         }
+                    },
+                    {
+                         "idSSOeuvre" : "84",
+                         "imageSSOeuvre" : "GC.REL.05a.1910.34053-13.jpg",
+                         "textes" : {
+                              "chapeauSSOeuvre" : "Linstruction pastorale. Maître &#224; la Vue de Sainte Gudule, vers 1480. Mus&#233;e du Louvre, Paris.",
+                              "legendeImageSSOeuvre" : "Linstruction pastorale. Maître &#224; la Vue de Sainte Gudule, vers 1480. Mus&#233;e du Louvre, Paris.",
+                              "descriptionSSOeuvre" : "Le maître anonyme auquel on attribue ce tableau a produit plusieurs uvres dans lesquelles se reconnaissent des monuments de Bruxelles - d&#130;o&#249; son pseudonyme, qui fait r&#233;f&#233;rence &#224; l&#130;ancienne coll&#233;giale bruxelloise des Saints-Michel et Gudule. Il y montre une v&#233;rit&#233; po&#233;tique et impr&#232;gne sa composition de formes de vie nouvelles, &#224; travers une recherche d&#130;expression, de dynamisme et d&#130;espace, tendances qui annoncent un important changement dans la tradition picturale flamande vers 1480. Sur un plan plus formel, l&#130;une des caract&#233;ristiques de la mani&#232;re de l&#130;artiste r&#233;side en la façon tr&#232;s originale de repr&#233;senter les mains de ses personnages, aux pouces largement &#233;cart&#233;s des autres doigts. Presque une signature"
+                         }
+                    }
+               ]
+          }
+     ]
+},
+{
+     "idLifi" : "9000011",
+     "mapNumber" : "64",
+     "coordinates" : "",
+     "etage" : "2",
+     "oeuvre" : [
+     ]
+},
+{
+     "idLifi" : "9000012",
+     "mapNumber" : "65",
+     "coordinates" : "",
+     "etage" : "2",
+     "oeuvre" : [
+     ]
+},
+{
+     "idLifi" : "9000013",
+     "mapNumber" : "66",
+     "coordinates" : "",
+     "etage" : "",
+     "oeuvre" : [
+     ]
+},
+{
+     "idLifi" : "9000014",
+     "mapNumber" : "67",
+     "coordinates" : "",
+     "etage" : "2",
+     "oeuvre" : [
+     ]
+},
+{
+     "idLifi" : "9000015",
+     "mapNumber" : "68",
+     "coordinates" : "",
+     "etage" : "2",
+     "oeuvre" : [
+     ]
+},
+{
+     "idLifi" : "9000017",
+     "mapNumber" : "70",
+     "coordinates" : "",
+     "etage" : "2",
+     "oeuvre" : [
+     ]
+},
+{
+     "idLifi" : "9000018",
+     "mapNumber" : "71",
+     "coordinates" : "",
+     "etage" : "2",
+     "oeuvre" : [
+     ]
+},
+{
+     "idLifi" : "8226",
+     "mapNumber" : "8226",
+     "coordinates" : "1493-898",
+     "etage" : "2",
+     "oeuvre" : [
+          {
+               "idOeuvre" : "UX.WAL.05b.0000.2051",
+               "coordOeuvre" : "N/A",
+               "imageOeuvre" : "BA.WAL.05b.0000.2051-01.jpg",
+               "textes" : {
+                    "chapeauOeuvre" : "Cet ensemble provient de l&#130;importante abbaye cistercienne d&#130;Herckenrode. Il a &#233;t&#233; dispers&#233; peu apr&#232;s la R&#233;volution, en 1794.Chacun de ces tableaux repr&#233;sente un &#233;pisode inspir&#233; par la Bible ou l&#130;histoire romaine mettant en &#233;vidence la vertu ou le courage d&#130;un femme qui devenait ainsi objet de m&#233;ditation pour les religieuses. ",
+                    "legendeImageOeuvre" : "David et Abiga&#235;l. Grand Curtius, Li&#232;ge.",
+                    "titreOeuvre" : "Cycle des Femmes Vertueuses",
+                    "descriptionOeuvre" : "Ces 4 tableaux red&#233;couverts et identifi&#233;s, il y a quelques ann&#233;es (1989), dans les collections communales appartiennent &#224; une s&#233;rie de 8. Les 4 autres ont aussi &#233;t&#233; retrouv&#233;s r&#233;cemment (2004) &#224; l&#130;&#233;glise Saint-Amand de Stockrooie (Hasselt). "
+               },
+               "sousOeuvre" : [
+               ]
+          }
+     ]
+},
+{
+     "idLifi" : "9948",
+     "mapNumber" : "9948",
+     "coordinates" : "1735-867",
+     "etage" : "2",
+     "oeuvre" : [
+          {
+               "idOeuvre" : "UX.REL.05a.1983.34062",
+               "coordOeuvre" : "1735,82",
+               "imageOeuvre" : "GC.REL.05a.1983.34062.jpg",
+               "textes" : {
+                    "chapeauOeuvre" : "La peinture repr&#233;sente, sur une face la Fuite en Egypte, sur lautre le Couronnement de la Vierge.<br />La Fuite en Egypte connaît ici lune des plus belles &#233;vocations de ce th&#232;me tr&#232;s populaire aux 15e et 16e S. Le panneau constitue le volet dun polyptyque marial, dont un autre volet conserv&#233; en collection priv&#233;e montre la Pr&#233;sentation de la Vierge au temple et sa Dormition",
+                    "legendeImageOeuvre" : "La Fuite en Egypte et la Glorification de la Vierge. Rhin inf&#233;rieur (?), vers 1480. Grand Curtius, Li&#232;ge.<br />",
+                    "titreOeuvre" : "La Fuite en Egypte et la Glorification de la Vierge<br />",
+                    "descriptionOeuvre" : "Marie juch&#233;e sur un âne tend d&#233;licatement &#224; lEnfant une monnaie dor, allusion &#224; celle dont avait fait pr&#233;sent &#224; J&#233;sus chacun des Rois mages. Joseph dirige la monture, le visage inquiet. Cette inqui&#233;tude trouve sa justification dans le tableau m&#234;me : au d&#233;tour dune colline, savance le roi H&#233;rode et ses soldats, en qu&#234;te de lEnfant. Les poursuivants arrivent &#224; hauteur dun paysan devant un champ que la Sainte-Famille venait de traverseralors quil semait. Mais au moment m&#234;me, le bl&#233; mûrit, d&#233;courageant ainsi H&#233;rode de pouvoir rattraper les fugitifs. A larri&#232;re-plan, une idole païenne seffondre d une colonne : la Sainte-Famille entre en Egypte.<br /><br />La ville ceinte de remparts &#224; larri&#232;re-plan fait naïvement r&#233;f&#233;rence &#224; lOrient. Elle rappelle les remparts urbains dont maintes cit&#233;s des Pays-Bas et de la principaut&#233; de Li&#232;ge &#233;taient entour&#233;es au 15e s. Lhorizon haut, trait&#233; en camaïeu bleut&#233;, est h&#233;riss&#233; de quelques massifs rocheux sur lesquels perchent clochers et châteaux, mais aussi des gibets et des roues, discr&#232;tes &#233;vocations des malheurs du temps.<br /><br />Au revers figure la Glorification de la Vierge : Marie recueillie et couronn&#233;e est assise &#224; côt&#233; du P&#232;re, identifiable &#224; ses traits âg&#233;s et &#224; la couronne imp&#233;riale- en guise de tiare- dont est ceint son front. Le muret &#224; l arri&#232;re-plan fait r&#233;f&#233;rence au Jardin clos, symbole de la virginit&#233; mariale. Deux anges d&#233;ploient un dais dhonneur pour cette sc&#232;ne cens&#233;e se d&#233;rouler au Ciel."
+               },
+               "sousOeuvre" : [
+               ]
+          },
+          {
+               "idOeuvre" : "UX.REL.23a.2008.000854",
+               "coordOeuvre" : "1765,837",
+               "imageOeuvre" : "GC.REL.23a.2008.000854.jpg",
+               "textes" : {
+                    "chapeauOeuvre" : "Ce pr&#233;cieux dessin est directement inspir&#233; dun tableau de Jean van Eyck dat&#233; vers 1425 et consid&#233;r&#233; comme uvre de jeunesse de lartiste (Staatliche Museen de Berlin). Plusieurs versions en sont connues, mais cette derni&#232;re est consid&#233;r&#233;e comme lauthentique. ",
+                    "legendeImageOeuvre" : "La vierge dans l&#130;&#233;glise. Suite de van Eyck, fin 15e S. Grand Curtius, Li&#232;ge.",
+                    "titreOeuvre" : "La vierge dans l&#130;&#233;glise",
+                    "descriptionOeuvre" : "La Vierge &#224; lEnfant est repr&#233;sent&#233;e dans la nef centrale dune &#233;glise gothique. Son front est ceint dune grande couronne orf&#233;vr&#233;e. Elle est v&#234;tue dun manteau aux amples drap&#233;s sur lequel se r&#233;pand sa longue chevelure. L&#233;glise voût&#233;e est un &#233;difice &#224; trois nefs  travers&#233; par un transept et port&#233; par des piles en faisceaux de colonnettes. Un jub&#233; gothique finement sculpt&#233; pr&#233;c&#232;de le chur. Il abrite un autel marial et est surmont&#233; dun Calvaire. Dans le sanctuaire, sur&#233;lev&#233; de quelques marches et prolong&#233; par une abside &#224; cinq pans, se tiennent deux anges. "
+               },
+               "sousOeuvre" : [
+               ]
+          }
+     ]
+}
+]

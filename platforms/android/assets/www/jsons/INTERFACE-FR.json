@@ -1,0 +1,55 @@
+
+[
+{
+     "idElement" : "bt1",
+     "contenuEmement" : "Voir quand même"
+},
+{
+     "idElement" : "bt2",
+     "contenuEmement" : "Retourner au plan"
+},
+{
+     "idElement" : "bt3",
+     "contenuEmement" : "Détail"
+},
+{
+     "idElement" : "bt4",
+     "contenuEmement" : "Oeuvres liées"
+},
+{
+     "idElement" : "i1",
+     "contenuEmement" : "image1-FR.jpg"
+},
+{
+     "idElement" : "i2",
+     "contenuEmement" : "image2-FR.jpg"
+},
+{
+     "idElement" : "t1",
+     "contenuEmement" : "Nous n&#39;avons pas d&#39;information pour cette lampe LIFI"
+},
+{
+     "idElement" : "t2",
+     "contenuEmement" : "Il semble que vous ne suivez pas l&#39;ordre des oeuvres de votre parcours"
+},
+{
+     "idElement" : "t3",
+     "contenuEmement" : "Il semble que vous ayez sauté une ou plusieures oeuvres de votre parcours "
+},
+{
+     "idElement" : "t4",
+     "contenuEmement" : "Ici votre dernière position sous une lampe"
+},
+{
+     "idElement" : "t5",
+     "contenuEmement" : "Début de votre parcours"
+},
+{
+     "idElement" : "t6",
+     "contenuEmement" : "Plan"
+},
+{
+     "idElement" : "t7",
+     "contenuEmement" : "Votre parcours est terminé. Merci de votre visite"
+}
+]

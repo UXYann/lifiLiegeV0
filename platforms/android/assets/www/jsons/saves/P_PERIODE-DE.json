@@ -1,0 +1,970 @@
+
+
+[
+{
+     "idLifi" : "6977",
+     "mapNumber" : "3",
+     "coordinates" : "250-705",
+     "etage" : "1",
+     "oeuvre" : [
+          {
+               "idOeuvre" : "GC.ARM.12a.1946.40505",
+               "coordOeuvre" : "238,657",
+               "imageOeuvre" : "GC.ARM.12a.1946.40505.jpg",
+               "textes" : {
+                    "chapeauOeuvre" : "",
+                    "legendeImageOeuvre" : "",
+                    "titreOeuvre" : "",
+                    "descriptionOeuvre" : ""
+               },
+               "sousOeuvre" : [
+                    {
+                         "idSSOeuvre" : "131",
+                         "imageSSOeuvre" : "GC.ARM.12a.1946.40505-11.jpg",
+                         "textes" : {
+                              "chapeauSSOeuvre" : "",
+                              "legendeImageSSOeuvre" : "",
+                              "descriptionSSOeuvre" : ""
+                         }
+                    },
+                    {
+                         "idSSOeuvre" : "132",
+                         "imageSSOeuvre" : "GC.ARM.12a.1946.40505-12.jpg",
+                         "textes" : {
+                              "chapeauSSOeuvre" : "",
+                              "legendeImageSSOeuvre" : "",
+                              "descriptionSSOeuvre" : ""
+                         }
+                    }
+               ]
+          }
+     ]
+},
+{
+     "idLifi" : "9000000",
+     "mapNumber" : "4",
+     "coordinates" : "277-858",
+     "etage" : "2",
+     "oeuvre" : [
+     ]
+},
+{
+     "idLifi" : "7407",
+     "mapNumber" : "6",
+     "coordinates" : "273-103",
+     "etage" : "1",
+     "oeuvre" : [
+          {
+               "idOeuvre" : "GC.ARM.15d.1500.001205",
+               "coordOeuvre" : "251,1047",
+               "imageOeuvre" : "GC.ARM.15d.1500.001205-01.jpg",
+               "textes" : {
+                    "chapeauOeuvre" : "",
+                    "legendeImageOeuvre" : "",
+                    "titreOeuvre" : "",
+                    "descriptionOeuvre" : ""
+               },
+               "sousOeuvre" : [
+                    {
+                         "idSSOeuvre" : "126",
+                         "imageSSOeuvre" : "GC.ARM.15d.1500.001205-11.jpg",
+                         "textes" : {
+                              "chapeauSSOeuvre" : "",
+                              "legendeImageSSOeuvre" : "",
+                              "descriptionSSOeuvre" : ""
+                         }
+                    },
+                    {
+                         "idSSOeuvre" : "127",
+                         "imageSSOeuvre" : "GC.ARM.15d.1500.001205-12.jpg",
+                         "textes" : {
+                              "chapeauSSOeuvre" : "",
+                              "legendeImageSSOeuvre" : "",
+                              "descriptionSSOeuvre" : ""
+                         }
+                    },
+                    {
+                         "idSSOeuvre" : "128",
+                         "imageSSOeuvre" : "GC.ARM.15d.1500.001205-02.jpg",
+                         "textes" : {
+                              "chapeauSSOeuvre" : "",
+                              "legendeImageSSOeuvre" : "",
+                              "descriptionSSOeuvre" : ""
+                         }
+                    }
+               ]
+          }
+     ]
+},
+{
+     "idLifi" : "9000001",
+     "mapNumber" : "8",
+     "coordinates" : "291-131",
+     "etage" : "2",
+     "oeuvre" : [
+     ]
+},
+{
+     "idLifi" : "19294",
+     "mapNumber" : "9",
+     "coordinates" : "739-443",
+     "etage" : "1",
+     "oeuvre" : [
+          {
+               "idOeuvre" : "GC.ARC.02a.2009.001111",
+               "coordOeuvre" : "739,443",
+               "imageOeuvre" : "GC.ARC.02a.2009.001111.jpg",
+               "textes" : {
+                    "chapeauOeuvre" : "",
+                    "legendeImageOeuvre" : "",
+                    "titreOeuvre" : "",
+                    "descriptionOeuvre" : ""
+               },
+               "sousOeuvre" : [
+               ]
+          }
+     ]
+},
+{
+     "idLifi" : "9000019",
+     "mapNumber" : "104",
+     "coordinates" : "277-858",
+     "etage" : "2",
+     "oeuvre" : [
+     ]
+},
+{
+     "idLifi" : "9000016",
+     "mapNumber" : "69",
+     "coordinates" : "",
+     "etage" : "2",
+     "oeuvre" : [
+     ]
+},
+{
+     "idLifi" : "16193",
+     "mapNumber" : "19",
+     "coordinates" : "1377-669",
+     "etage" : "1",
+     "oeuvre" : [
+     ]
+},
+{
+     "idLifi" : "11499",
+     "mapNumber" : "20",
+     "coordinates" : "1282-746",
+     "etage" : "1",
+     "oeuvre" : [
+          {
+               "idOeuvre" : "GC.ARC.01a.1857.50089",
+               "coordOeuvre" : "1233,741",
+               "imageOeuvre" : "GC.ARC.01a.1857.50089-02.jpg",
+               "textes" : {
+                    "chapeauOeuvre" : "",
+                    "legendeImageOeuvre" : "",
+                    "titreOeuvre" : "",
+                    "descriptionOeuvre" : ""
+               },
+               "sousOeuvre" : [
+                    {
+                         "idSSOeuvre" : "7",
+                         "imageSSOeuvre" : "GC.ARC.01a.1857.50089-01.jpg",
+                         "textes" : {
+                              "chapeauSSOeuvre" : "",
+                              "legendeImageSSOeuvre" : "",
+                              "descriptionSSOeuvre" : ""
+                         }
+                    },
+                    {
+                         "idSSOeuvre" : "8",
+                         "imageSSOeuvre" : "GC.ARC.01a.1857.50089-11.jpg",
+                         "textes" : {
+                              "chapeauSSOeuvre" : "",
+                              "legendeImageSSOeuvre" : "",
+                              "descriptionSSOeuvre" : ""
+                         }
+                    },
+                    {
+                         "idSSOeuvre" : "9",
+                         "imageSSOeuvre" : "GC.ARC.01a.1857.50089-03.jpg",
+                         "textes" : {
+                              "chapeauSSOeuvre" : "",
+                              "legendeImageSSOeuvre" : "",
+                              "descriptionSSOeuvre" : ""
+                         }
+                    }
+               ]
+          }
+     ]
+},
+{
+     "idLifi" : "15676",
+     "mapNumber" : "23",
+     "coordinates" : "1503-876",
+     "etage" : "1",
+     "oeuvre" : [
+          {
+               "idOeuvre" : "GC.ARC.01c.1910.50474",
+               "coordOeuvre" : "1503,83",
+               "imageOeuvre" : "GC.ARC.01c.1910.50474.jpg",
+               "textes" : {
+                    "chapeauOeuvre" : "",
+                    "legendeImageOeuvre" : "",
+                    "titreOeuvre" : "",
+                    "descriptionOeuvre" : ""
+               },
+               "sousOeuvre" : [
+                    {
+                         "idSSOeuvre" : "26",
+                         "imageSSOeuvre" : "GC.ARC.01c.1910.50474-14.jpg",
+                         "textes" : {
+                              "chapeauSSOeuvre" : "",
+                              "legendeImageSSOeuvre" : "",
+                              "descriptionSSOeuvre" : ""
+                         }
+                    },
+                    {
+                         "idSSOeuvre" : "27",
+                         "imageSSOeuvre" : "GC.ARC.01c.1910.50474-12.jpg",
+                         "textes" : {
+                              "chapeauSSOeuvre" : "",
+                              "legendeImageSSOeuvre" : "",
+                              "descriptionSSOeuvre" : ""
+                         }
+                    },
+                    {
+                         "idSSOeuvre" : "28",
+                         "imageSSOeuvre" : "GC.ARC.01c.1910.50474-11.jpg",
+                         "textes" : {
+                              "chapeauSSOeuvre" : "",
+                              "legendeImageSSOeuvre" : "",
+                              "descriptionSSOeuvre" : ""
+                         }
+                    },
+                    {
+                         "idSSOeuvre" : "29",
+                         "imageSSOeuvre" : "GC.ARC.01c.1910.50474-13.jpg",
+                         "textes" : {
+                              "chapeauSSOeuvre" : "",
+                              "legendeImageSSOeuvre" : "",
+                              "descriptionSSOeuvre" : ""
+                         }
+                    }
+               ]
+          },
+          {
+               "idOeuvre" : "GC.ARC.01e.1968.46776",
+               "coordOeuvre" : "1335,597",
+               "imageOeuvre" : "GC.ARC.01e.1968.46776-01.jpg",
+               "textes" : {
+                    "chapeauOeuvre" : "",
+                    "legendeImageOeuvre" : "",
+                    "titreOeuvre" : "",
+                    "descriptionOeuvre" : ""
+               },
+               "sousOeuvre" : [
+                    {
+                         "idSSOeuvre" : "33",
+                         "imageSSOeuvre" : "GC.ARC.01e.1968.46776-11.jpg",
+                         "textes" : {
+                              "chapeauSSOeuvre" : "",
+                              "legendeImageSSOeuvre" : "",
+                              "descriptionSSOeuvre" : ""
+                         }
+                    },
+                    {
+                         "idSSOeuvre" : "34",
+                         "imageSSOeuvre" : "GC.ARC.01e.1968.46776-12.jpg",
+                         "textes" : {
+                              "chapeauSSOeuvre" : "",
+                              "legendeImageSSOeuvre" : "",
+                              "descriptionSSOeuvre" : ""
+                         }
+                    }
+               ]
+          }
+     ]
+},
+{
+     "idLifi" : "3445",
+     "mapNumber" : "26",
+     "coordinates" : "1443-895",
+     "etage" : "1",
+     "oeuvre" : [
+          {
+               "idOeuvre" : "GC.ARC.01a.1912.47353",
+               "coordOeuvre" : "1443,895",
+               "imageOeuvre" : "GC.ARC.01a.1912.47353-01.jpg",
+               "textes" : {
+                    "chapeauOeuvre" : "",
+                    "legendeImageOeuvre" : "",
+                    "titreOeuvre" : "",
+                    "descriptionOeuvre" : ""
+               },
+               "sousOeuvre" : [
+                    {
+                         "idSSOeuvre" : "19",
+                         "imageSSOeuvre" : "GC.ARC.01a.1912.47353-11.jpg",
+                         "textes" : {
+                              "chapeauSSOeuvre" : "",
+                              "legendeImageSSOeuvre" : "",
+                              "descriptionSSOeuvre" : ""
+                         }
+                    },
+                    {
+                         "idSSOeuvre" : "20",
+                         "imageSSOeuvre" : "GC.ARC.01a.1912.47353-01.jpg",
+                         "textes" : {
+                              "chapeauSSOeuvre" : "",
+                              "legendeImageSSOeuvre" : "",
+                              "descriptionSSOeuvre" : ""
+                         }
+                    },
+                    {
+                         "idSSOeuvre" : "21",
+                         "imageSSOeuvre" : "GC.ARC.01a.1912.47353-02.jpg",
+                         "textes" : {
+                              "chapeauSSOeuvre" : "",
+                              "legendeImageSSOeuvre" : "",
+                              "descriptionSSOeuvre" : ""
+                         }
+                    },
+                    {
+                         "idSSOeuvre" : "22",
+                         "imageSSOeuvre" : "GC.ARC.01a.1912.47353-03.jpg",
+                         "textes" : {
+                              "chapeauSSOeuvre" : "",
+                              "legendeImageSSOeuvre" : "",
+                              "descriptionSSOeuvre" : ""
+                         }
+                    }
+               ]
+          }
+     ]
+},
+{
+     "idLifi" : "9000004",
+     "mapNumber" : "30",
+     "coordinates" : "378-496",
+     "etage" : "2",
+     "oeuvre" : [
+     ]
+},
+{
+     "idLifi" : "17571",
+     "mapNumber" : "31",
+     "coordinates" : "449-512",
+     "etage" : "2",
+     "oeuvre" : [
+          {
+               "idOeuvre" : "GC.ADC.02a.0000.73925",
+               "coordOeuvre" : "449,512",
+               "imageOeuvre" : "GC.ADC.02a.0000.73925-01.jpg",
+               "textes" : {
+                    "chapeauOeuvre" : "",
+                    "legendeImageOeuvre" : "",
+                    "titreOeuvre" : "",
+                    "descriptionOeuvre" : ""
+               },
+               "sousOeuvre" : [
+                    {
+                         "idSSOeuvre" : "105",
+                         "imageSSOeuvre" : "GC.ADC.02a.0000.73925-02.jpg",
+                         "textes" : {
+                              "chapeauSSOeuvre" : "",
+                              "legendeImageSSOeuvre" : "",
+                              "descriptionSSOeuvre" : ""
+                         }
+                    }
+               ]
+          }
+     ]
+},
+{
+     "idLifi" : "9905",
+     "mapNumber" : "32",
+     "coordinates" : "241-634",
+     "etage" : "2",
+     "oeuvre" : [
+          {
+               "idOeuvre" : "BA.WAL.05b.0000.2051",
+               "coordOeuvre" : "N/A",
+               "imageOeuvre" : "BA.WAL.05b.0000.2051-01.jpg",
+               "textes" : {
+                    "chapeauOeuvre" : "",
+                    "legendeImageOeuvre" : "",
+                    "titreOeuvre" : "",
+                    "descriptionOeuvre" : ""
+               },
+               "sousOeuvre" : [
+               ]
+          }
+     ]
+},
+{
+     "idLifi" : "9000005",
+     "mapNumber" : "34",
+     "coordinates" : "315-506",
+     "etage" : "2",
+     "oeuvre" : [
+     ]
+},
+{
+     "idLifi" : "9000006",
+     "mapNumber" : "36",
+     "coordinates" : "289-1219",
+     "etage" : "2",
+     "oeuvre" : [
+     ]
+},
+{
+     "idLifi" : "9001",
+     "mapNumber" : "38",
+     "coordinates" : "461-1418",
+     "etage" : "2",
+     "oeuvre" : [
+          {
+               "idOeuvre" : "GC.REL.02f.1883.32766",
+               "coordOeuvre" : "461,1418",
+               "imageOeuvre" : "GC.REL.02f.1883.32766.jpg",
+               "textes" : {
+                    "chapeauOeuvre" : "",
+                    "legendeImageOeuvre" : "",
+                    "titreOeuvre" : "",
+                    "descriptionOeuvre" : ""
+               },
+               "sousOeuvre" : [
+               ]
+          }
+     ]
+},
+{
+     "idLifi" : "9000007",
+     "mapNumber" : "39",
+     "coordinates" : "",
+     "etage" : "2",
+     "oeuvre" : [
+     ]
+},
+{
+     "idLifi" : "8140",
+     "mapNumber" : "42",
+     "coordinates" : "900-458",
+     "etage" : "2",
+     "oeuvre" : [
+          {
+               "idOeuvre" : "GC.ADC.02a.1862.61549",
+               "coordOeuvre" : "481,499",
+               "imageOeuvre" : "GC.ADC.02a.1862.61549.jpg",
+               "textes" : {
+                    "chapeauOeuvre" : "",
+                    "legendeImageOeuvre" : "",
+                    "titreOeuvre" : "",
+                    "descriptionOeuvre" : ""
+               },
+               "sousOeuvre" : [
+                    {
+                         "idSSOeuvre" : "86",
+                         "imageSSOeuvre" : "GC.ADC.02a.1862.61549-11.jpg",
+                         "textes" : {
+                              "chapeauSSOeuvre" : "",
+                              "legendeImageSSOeuvre" : "",
+                              "descriptionSSOeuvre" : ""
+                         }
+                    },
+                    {
+                         "idSSOeuvre" : "87",
+                         "imageSSOeuvre" : "GC.ADC.02a.1862.61549-12.jpg",
+                         "textes" : {
+                              "chapeauSSOeuvre" : "",
+                              "legendeImageSSOeuvre" : "",
+                              "descriptionSSOeuvre" : ""
+                         }
+                    }
+               ]
+          }
+     ]
+},
+{
+     "idLifi" : "16839",
+     "mapNumber" : "44",
+     "coordinates" : "981-448",
+     "etage" : "2",
+     "oeuvre" : [
+          {
+               "idOeuvre" : "GC.ADC.10e.1912.66248",
+               "coordOeuvre" : "966,439",
+               "imageOeuvre" : "GC.ADC.10e.1912.66248.jpg",
+               "textes" : {
+                    "chapeauOeuvre" : "",
+                    "legendeImageOeuvre" : "",
+                    "titreOeuvre" : "",
+                    "descriptionOeuvre" : ""
+               },
+               "sousOeuvre" : [
+                    {
+                         "idSSOeuvre" : "54",
+                         "imageSSOeuvre" : "GC.ADC.10e.1912.66248-11.jpg",
+                         "textes" : {
+                              "chapeauSSOeuvre" : "",
+                              "legendeImageSSOeuvre" : "",
+                              "descriptionSSOeuvre" : ""
+                         }
+                    },
+                    {
+                         "idSSOeuvre" : "55",
+                         "imageSSOeuvre" : "GC.ADC.10e.1912.66248-12.jpg",
+                         "textes" : {
+                              "chapeauSSOeuvre" : "",
+                              "legendeImageSSOeuvre" : "",
+                              "descriptionSSOeuvre" : ""
+                         }
+                    },
+                    {
+                         "idSSOeuvre" : "56",
+                         "imageSSOeuvre" : "GC.ADC.10e.1912.66248-13.jpg",
+                         "textes" : {
+                              "chapeauSSOeuvre" : "",
+                              "legendeImageSSOeuvre" : "",
+                              "descriptionSSOeuvre" : ""
+                         }
+                    },
+                    {
+                         "idSSOeuvre" : "57",
+                         "imageSSOeuvre" : "GC.ADC.10e.1912.66248-14.jpg",
+                         "textes" : {
+                              "chapeauSSOeuvre" : "",
+                              "legendeImageSSOeuvre" : "",
+                              "descriptionSSOeuvre" : ""
+                         }
+                    }
+               ]
+          }
+     ]
+},
+{
+     "idLifi" : "20930",
+     "mapNumber" : "47",
+     "coordinates" : "1146-433",
+     "etage" : "2",
+     "oeuvre" : [
+          {
+               "idOeuvre" : "GC.ADC.02d.1955.67106",
+               "coordOeuvre" : "1350,485",
+               "imageOeuvre" : "GC.ADC.02d.1955.67106.jpg",
+               "textes" : {
+                    "chapeauOeuvre" : "",
+                    "legendeImageOeuvre" : "",
+                    "titreOeuvre" : "",
+                    "descriptionOeuvre" : ""
+               },
+               "sousOeuvre" : [
+               ]
+          }
+     ]
+},
+{
+     "idLifi" : "20413",
+     "mapNumber" : "49",
+     "coordinates" : "1334-332",
+     "etage" : "2",
+     "oeuvre" : [
+          {
+               "idOeuvre" : "GC.ADC.25a.0000.66247",
+               "coordOeuvre" : "1302,303",
+               "imageOeuvre" : "GC.ADC.25a.0000.66247.jpg",
+               "textes" : {
+                    "chapeauOeuvre" : "",
+                    "legendeImageOeuvre" : "",
+                    "titreOeuvre" : "",
+                    "descriptionOeuvre" : ""
+               },
+               "sousOeuvre" : [
+                    {
+                         "idSSOeuvre" : "61",
+                         "imageSSOeuvre" : "GC.ADC.25a.0000.66247-11.jpg",
+                         "textes" : {
+                              "chapeauSSOeuvre" : "",
+                              "legendeImageSSOeuvre" : "",
+                              "descriptionSSOeuvre" : ""
+                         }
+                    },
+                    {
+                         "idSSOeuvre" : "62",
+                         "imageSSOeuvre" : "GC.ADC.25a.0000.66247-12.jpg",
+                         "textes" : {
+                              "chapeauSSOeuvre" : "",
+                              "legendeImageSSOeuvre" : "",
+                              "descriptionSSOeuvre" : ""
+                         }
+                    },
+                    {
+                         "idSSOeuvre" : "63",
+                         "imageSSOeuvre" : "GC.ADC.25a.0000.66247-13.jpg",
+                         "textes" : {
+                              "chapeauSSOeuvre" : "",
+                              "legendeImageSSOeuvre" : "",
+                              "descriptionSSOeuvre" : ""
+                         }
+                    }
+               ]
+          },
+          {
+               "idOeuvre" : "GC.REL.10a.1981.34002",
+               "coordOeuvre" : "1330,299",
+               "imageOeuvre" : "GC.REL.10a.1981.34002-04.jpg",
+               "textes" : {
+                    "chapeauOeuvre" : "",
+                    "legendeImageOeuvre" : "",
+                    "titreOeuvre" : "",
+                    "descriptionOeuvre" : ""
+               },
+               "sousOeuvre" : [
+                    {
+                         "idSSOeuvre" : "64",
+                         "imageSSOeuvre" : "GC.REL.10a.1981.34002-01.jpg",
+                         "textes" : {
+                              "chapeauSSOeuvre" : "",
+                              "legendeImageSSOeuvre" : "",
+                              "descriptionSSOeuvre" : ""
+                         }
+                    },
+                    {
+                         "idSSOeuvre" : "65",
+                         "imageSSOeuvre" : "GC.REL.10a.1981.34002-03.jpg",
+                         "textes" : {
+                              "chapeauSSOeuvre" : "",
+                              "legendeImageSSOeuvre" : "",
+                              "descriptionSSOeuvre" : ""
+                         }
+                    },
+                    {
+                         "idSSOeuvre" : "66",
+                         "imageSSOeuvre" : "GC.REL.10a.1981.34002-11.jpg",
+                         "textes" : {
+                              "chapeauSSOeuvre" : "",
+                              "legendeImageSSOeuvre" : "",
+                              "descriptionSSOeuvre" : ""
+                         }
+                    },
+                    {
+                         "idSSOeuvre" : "67",
+                         "imageSSOeuvre" : "GC.REL.10a.1981.34002-14.jpg",
+                         "textes" : {
+                              "chapeauSSOeuvre" : "",
+                              "legendeImageSSOeuvre" : "",
+                              "descriptionSSOeuvre" : ""
+                         }
+                    },
+                    {
+                         "idSSOeuvre" : "68",
+                         "imageSSOeuvre" : "GC.REL.10a.1981.34002-12.jpg",
+                         "textes" : {
+                              "chapeauSSOeuvre" : "",
+                              "legendeImageSSOeuvre" : "",
+                              "descriptionSSOeuvre" : ""
+                         }
+                    }
+               ]
+          }
+     ]
+},
+{
+     "idLifi" : "9000008",
+     "mapNumber" : "51",
+     "coordinates" : "1449-314",
+     "etage" : "2",
+     "oeuvre" : [
+     ]
+},
+{
+     "idLifi" : "9000009",
+     "mapNumber" : "52",
+     "coordinates" : "1521-304",
+     "etage" : "2",
+     "oeuvre" : [
+     ]
+},
+{
+     "idLifi" : "16408",
+     "mapNumber" : "53",
+     "coordinates" : "1592-295",
+     "etage" : "2",
+     "oeuvre" : [
+          {
+               "idOeuvre" : "GC.REL.02a.1937.34038",
+               "coordOeuvre" : "1592,357",
+               "imageOeuvre" : "GC.REL.02a.1937.34038.jpg",
+               "textes" : {
+                    "chapeauOeuvre" : "",
+                    "legendeImageOeuvre" : "",
+                    "titreOeuvre" : "",
+                    "descriptionOeuvre" : ""
+               },
+               "sousOeuvre" : [
+                    {
+                         "idSSOeuvre" : "73",
+                         "imageSSOeuvre" : "GC.REL.02a.1937.34038-11.jpg",
+                         "textes" : {
+                              "chapeauSSOeuvre" : "",
+                              "legendeImageSSOeuvre" : "",
+                              "descriptionSSOeuvre" : ""
+                         }
+                    }
+               ]
+          }
+     ]
+},
+{
+     "idLifi" : "9000010",
+     "mapNumber" : "55",
+     "coordinates" : "1350-485",
+     "etage" : "2",
+     "oeuvre" : [
+     ]
+},
+{
+     "idLifi" : "16968",
+     "mapNumber" : "56",
+     "coordinates" : "1364-603",
+     "etage" : "2",
+     "oeuvre" : [
+          {
+               "idOeuvre" : "GC.REL.09.1998.34043",
+               "coordOeuvre" : "1336,64",
+               "imageOeuvre" : "GC.REL.09.1998.34043-01.jpg",
+               "textes" : {
+                    "chapeauOeuvre" : "",
+                    "legendeImageOeuvre" : "",
+                    "titreOeuvre" : "",
+                    "descriptionOeuvre" : ""
+               },
+               "sousOeuvre" : [
+                    {
+                         "idSSOeuvre" : "78",
+                         "imageSSOeuvre" : "GC.REL.09.1998.34043-11.jpg",
+                         "textes" : {
+                              "chapeauSSOeuvre" : "",
+                              "legendeImageSSOeuvre" : "",
+                              "descriptionSSOeuvre" : ""
+                         }
+                    }
+               ]
+          }
+     ]
+},
+{
+     "idLifi" : "8269",
+     "mapNumber" : "57",
+     "coordinates" : "1378-681",
+     "etage" : "2",
+     "oeuvre" : [
+          {
+               "idOeuvre" : "GC.REL.02b.1979.34044",
+               "coordOeuvre" : "1366,699",
+               "imageOeuvre" : "GC.REL.02b.1979.34044-01.jpg",
+               "textes" : {
+                    "chapeauOeuvre" : "",
+                    "legendeImageOeuvre" : "",
+                    "titreOeuvre" : "",
+                    "descriptionOeuvre" : ""
+               },
+               "sousOeuvre" : [
+               ]
+          }
+     ]
+},
+{
+     "idLifi" : "11240",
+     "mapNumber" : "60",
+     "coordinates" : "1493-898",
+     "etage" : "2",
+     "oeuvre" : [
+          {
+               "idOeuvre" : "GC.REL.02a.1978.34048",
+               "coordOeuvre" : "1528,838",
+               "imageOeuvre" : "GC.REL.02a.1978.34048.jpg",
+               "textes" : {
+                    "chapeauOeuvre" : "",
+                    "legendeImageOeuvre" : "",
+                    "titreOeuvre" : "",
+                    "descriptionOeuvre" : ""
+               },
+               "sousOeuvre" : [
+               ]
+          }
+     ]
+},
+{
+     "idLifi" : "13351",
+     "mapNumber" : "63",
+     "coordinates" : "1718-968",
+     "etage" : "2",
+     "oeuvre" : [
+          {
+               "idOeuvre" : "GC.REL.05a.1891.34054",
+               "coordOeuvre" : "1740,991",
+               "imageOeuvre" : "GC.REL.05a.1891.34054.jpg",
+               "textes" : {
+                    "chapeauOeuvre" : "",
+                    "legendeImageOeuvre" : "",
+                    "titreOeuvre" : "",
+                    "descriptionOeuvre" : ""
+               },
+               "sousOeuvre" : [
+               ]
+          },
+          {
+               "idOeuvre" : "GC.REL.05a.1910.34053",
+               "coordOeuvre" : "1702,991",
+               "imageOeuvre" : "GC.REL.05a.1910.34053.jpg",
+               "textes" : {
+                    "chapeauOeuvre" : "",
+                    "legendeImageOeuvre" : "",
+                    "titreOeuvre" : "",
+                    "descriptionOeuvre" : ""
+               },
+               "sousOeuvre" : [
+                    {
+                         "idSSOeuvre" : "82",
+                         "imageSSOeuvre" : "GC.REL.05a.1910.34053-11.jpg",
+                         "textes" : {
+                              "chapeauSSOeuvre" : "",
+                              "legendeImageSSOeuvre" : "",
+                              "descriptionSSOeuvre" : ""
+                         }
+                    },
+                    {
+                         "idSSOeuvre" : "83",
+                         "imageSSOeuvre" : "GC.REL.05a.1910.34053-12.jpg",
+                         "textes" : {
+                              "chapeauSSOeuvre" : "",
+                              "legendeImageSSOeuvre" : "",
+                              "descriptionSSOeuvre" : ""
+                         }
+                    },
+                    {
+                         "idSSOeuvre" : "84",
+                         "imageSSOeuvre" : "GC.REL.05a.1910.34053-13.jpg",
+                         "textes" : {
+                              "chapeauSSOeuvre" : "",
+                              "legendeImageSSOeuvre" : "",
+                              "descriptionSSOeuvre" : ""
+                         }
+                    }
+               ]
+          }
+     ]
+},
+{
+     "idLifi" : "9000011",
+     "mapNumber" : "64",
+     "coordinates" : "",
+     "etage" : "2",
+     "oeuvre" : [
+     ]
+},
+{
+     "idLifi" : "9000012",
+     "mapNumber" : "65",
+     "coordinates" : "",
+     "etage" : "2",
+     "oeuvre" : [
+     ]
+},
+{
+     "idLifi" : "9000013",
+     "mapNumber" : "66",
+     "coordinates" : "",
+     "etage" : "",
+     "oeuvre" : [
+     ]
+},
+{
+     "idLifi" : "9000014",
+     "mapNumber" : "67",
+     "coordinates" : "",
+     "etage" : "2",
+     "oeuvre" : [
+     ]
+},
+{
+     "idLifi" : "9000015",
+     "mapNumber" : "68",
+     "coordinates" : "",
+     "etage" : "2",
+     "oeuvre" : [
+     ]
+},
+{
+     "idLifi" : "9000017",
+     "mapNumber" : "70",
+     "coordinates" : "",
+     "etage" : "2",
+     "oeuvre" : [
+     ]
+},
+{
+     "idLifi" : "9000018",
+     "mapNumber" : "71",
+     "coordinates" : "",
+     "etage" : "2",
+     "oeuvre" : [
+     ]
+},
+{
+     "idLifi" : "8226",
+     "mapNumber" : "8226",
+     "coordinates" : "1493-898",
+     "etage" : "2",
+     "oeuvre" : [
+          {
+               "idOeuvre" : "UX.WAL.05b.0000.2051",
+               "coordOeuvre" : "N/A",
+               "imageOeuvre" : "BA.WAL.05b.0000.2051-01.jpg",
+               "textes" : {
+                    "chapeauOeuvre" : "",
+                    "legendeImageOeuvre" : "",
+                    "titreOeuvre" : "",
+                    "descriptionOeuvre" : ""
+               },
+               "sousOeuvre" : [
+               ]
+          }
+     ]
+},
+{
+     "idLifi" : "9948",
+     "mapNumber" : "9948",
+     "coordinates" : "1735-867",
+     "etage" : "2",
+     "oeuvre" : [
+          {
+               "idOeuvre" : "UX.REL.05a.1983.34062",
+               "coordOeuvre" : "1735,82",
+               "imageOeuvre" : "GC.REL.05a.1983.34062.jpg",
+               "textes" : {
+                    "chapeauOeuvre" : "",
+                    "legendeImageOeuvre" : "",
+                    "titreOeuvre" : "",
+                    "descriptionOeuvre" : ""
+               },
+               "sousOeuvre" : [
+               ]
+          },
+          {
+               "idOeuvre" : "UX.REL.23a.2008.000854",
+               "coordOeuvre" : "1765,837",
+               "imageOeuvre" : "GC.REL.23a.2008.000854.jpg",
+               "textes" : {
+                    "chapeauOeuvre" : "",
+                    "legendeImageOeuvre" : "",
+                    "titreOeuvre" : "",
+                    "descriptionOeuvre" : ""
+               },
+               "sousOeuvre" : [
+               ]
+          }
+     ]
+}
+]

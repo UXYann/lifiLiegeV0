@@ -1,0 +1,313 @@
+
+[
+{
+     "idLifi" : "15375",
+     "mapNumber" : "2",
+     "coordinates" : "435-597",
+     "etage" : "1",
+     "oeuvre" : [
+          {
+               "idOeuvre" : "GC.ADC.06b.1995.66594",
+               "coordOeuvre" : "241,629",
+               "imageOeuvre" : "GC.ADC.06b.1995.66594-01.jpg",
+               "textes" : {
+                    "chapeauOeuvre" : "Ce piano, tout comme le billard, ont &#233;t&#233; conçu par Gustave Serrurier-Bovy pour le château de la Chapelle-en-Serval.  Le peintre li&#233;geois Emile Berchmans (1867 - 1947) a r&#233;alis&#233; les panneaux peints du piano ainsi que du casier &#224; musique. L&#130;instrument proprement dit est une r&#233;alisation de la maison Pleyel &#224; Paris.",
+                    "legendeImageOeuvre" : "Piano demi-queue r&#233;alis&#233; par Gustave Serrurier-Bovy,  Emile Berchmans et la maison Pleyel &#224; Paris. Grand Gurtius, Li&#232;ge.",
+                    "titreOeuvre" : "Piano demi-queue r&#233;alis&#233; par Gustave Serrurier-Bovy,  Emile Berchmans et la maison Pleyel &#224; Paris",
+                    "descriptionOeuvre" : "Gustave Serrurier-Bovy (1858  1910) est &#224; juste titre reconnu comme une des figures majeures de l&#130;Art nouveau en Belgique au m&#234;me titre que Van de Velde et Horta."
+               },
+               "sousOeuvre" : [
+                    {
+                         "idSSOeuvre" : "133",
+                         "imageSSOeuvre" : "GC.ADC.06b.1995.66594-12.jpg",
+                         "textes" : {
+                              "chapeauSSOeuvre" : "Affiche sign&#233;e Berchmans et imprim&#233;e chez B&#233;nard &#224; Li&#232;ge",
+                              "legendeImageSSOeuvre" : "Affiche sign&#233;e Berchmans et imprim&#233;e chez B&#233;nard &#224; Li&#232;ge",
+                              "descriptionSSOeuvre" : "Le peintre li&#233;geois Emile Berchmans (1867 - 1947) a souvent collabor&#233; avec d&#130;autres architectes contemporains comme Paul Jaspar (1859  1945) pour la d&#233;coration d&#130;int&#233;rieurs. Il est aussi l&#130;auteur de la grande affiche imprim&#233;e chez B&#233;nard pour le magasin de Bruxelles de la maison Serrurier-Bovy."
+                         }
+                    },
+                    {
+                         "idSSOeuvre" : "134",
+                         "imageSSOeuvre" : "GC.ADC.06b.1995.66594-13.jpg",
+                         "textes" : {
+                              "chapeauSSOeuvre" : "Salle de billard de la Chapelle-en-Serval, photographie d&#130;&#233;poque",
+                              "legendeImageSSOeuvre" : "Salle de billard de la Chapelle-en-Serval, photographie d&#130;&#233;poque",
+                              "descriptionSSOeuvre" : "Vandalis&#233; durant la premi&#232;re guerre mondiale, cet ensemble est fort bien document&#233; par des articles illustr&#233;s de l&#130;&#233;poque qui nous pr&#233;sentent ces objets remarquables dans leur contexte."
+                         }
+                    },
+                    {
+                         "idSSOeuvre" : "135",
+                         "imageSSOeuvre" : "GC.ADC.06b.1995.66594-11.jpg",
+                         "textes" : {
+                              "chapeauSSOeuvre" : "Portait photographique de Gustave Serrurier-Bovy.",
+                              "legendeImageSSOeuvre" : "Portait photographique de Gustave Serrurier-Bovy.",
+                              "descriptionSSOeuvre" : "Pas de texte"
+                         }
+                    },
+                    {
+                         "idSSOeuvre" : "136",
+                         "imageSSOeuvre" : "GC.ADC.06b.1995.66594-14.jpg",
+                         "textes" : {
+                              "chapeauSSOeuvre" : "Projet aquarell&#233; pour la mosaïque de la Villa l&#130;Aube par Auguste Donnay.",
+                              "legendeImageSSOeuvre" : "Projet aquarell&#233; pour la mosaïque de la Villa l&#130;Aube par Auguste Donnay.",
+                              "descriptionSSOeuvre" : "Architecte, mais surtout cr&#233;ateur de mobilier, Gustave-Serrurier-Bovy r&#233;alise quelques ensembles remarquables consistant en la d&#233;coration compl&#232;te d&#130; immeubles importants. Il conçoit ainsi la d&#233;coration du château de la Chapelle-en-Serval pr&#232;s de Compi&#232;gne (1901), sa propre Villa L&#130;Aube &#224; Cointe (1903), La Cheyrelle &#224; Dienne en Auvergne (1903-1909) et enfin la Villa Ortiz-Basualdo &#224; Mar del Plata en Argentine (1910-1912). Si ces ensembles sont  aujourd&#130;hui bien document&#233;s, ils ont, en revanche, presque tous &#233;t&#233; dispers&#233;s. "
+                         }
+                    }
+               ]
+          }
+     ]
+},
+{
+     "idLifi" : "9173",
+     "mapNumber" : "7",
+     "coordinates" : "472-1219",
+     "etage" : "1",
+     "oeuvre" : [
+          {
+               "idOeuvre" : "GC.ADC.07c.0000.63956",
+               "coordOeuvre" : "472,1219",
+               "imageOeuvre" : "GC.ADC.07c.0000.63956.jpg",
+               "textes" : {
+                    "chapeauOeuvre" : "Ces deux vases appartiennent &#224; un ensemble prestigieux de dix pi&#232;ces soit six vases et quatre cornets. Quatre vases et deux cornets ont &#233;t&#233; r&#233;alis&#233;s en porcelaine tendre de Tournai, &#224; l&#130;imitation parfaite de deux vases et deux cornets en porcelaine dure chinoise de l&#130;&#233;poque Qianlong (1736-1795). Cet ensemble est aujourd&#130;hui dispers&#233; entre la collection Philippe de Rothschild &#224; Paris, la donation James de Rothschild &#224; Waddesdon Manor et le Grand Curtius. Ces deux-ci pourraient &#233;galement provenir de la branche autrichienne de cette famille.",
+                    "legendeImageOeuvre" : "Paire de vases en porcelaine de Tournai, vers 1776-1777, anciens Pays-Bas m&#233;ridionaux. Grand Curtius, Li&#232;ge.",
+                    "titreOeuvre" : "Paire de vases en porcelaine de Tournai",
+                    "descriptionOeuvre" : "Les pi&#232;ces en Tournai ont &#233;t&#233; conçues pour &#234;tre mont&#233;es et les &#233;l&#233;ments d&#130;origine chinoise ne pr&#233;sentent aucun &#130;accident qu&#130;il fallait dissimuler. On remarquera cependant que les vases chinois devaient tr&#232;s vraisemblablement &#234;tre couverts &#224; l&#130;origine. L&#130;ensemble a donc &#233;t&#233; enrichi de bronzes dor&#233;s dans le seul but d&#130;en augmenter le prestige.<br /><br />Il ne semble plus faire de doute que cet ensemble prestigieux ait &#233;t&#233; conçu pour le grand salon du Palais de Bruxelles du Gouverneur des anciens Pays-Bas, Charles-Alexandre de Lorraine (1712-1780). Ils sont signal&#233;s dans l&#130;inventaire de sa mortuaire et estim&#233;s 5.000 florins. Les bronzes dor&#233;s ont &#233;t&#233; ex&#233;cut&#233;s en 1776-1777.<br />Le prince appr&#233;ciait particuli&#232;rement les porcelaines orientales dont il confiait la monture aux meilleurs orf&#232;vres. En t&#233;moignent les exceptionnels « service en or » et « service en argent » conserv&#233;s &#224; Vienne et auxquels ont travaill&#233; des orf&#232;vres londoniens, bruxellois et viennois.<br />Il manifestait &#233;galement un int&#233;r&#234;t certain pour la manufacture de faïences et de porcelaines de Peterinck &#224; Tournai qui reçut le titre d&#130;imp&#233;riale et fut prot&#233;g&#233;e par son Gouvernement.<br /><br />Michel-Paul-Joseph Dewez (1742- 1804) a sign&#233; un cornet et un de nos vases : M. P. I. DE WEZ ORF. INV ET FECIT. Ce sont les seuls pi&#232;ces conserv&#233;es de cet orf&#232;vre important et fr&#232;re cadet du c&#233;l&#232;bre architecte Laurent-Benoit Dewez. N&#233; dans le Luxembourg, d&#130;une famille originaire de Rechain (Verviers), il fut premier compagnon de l&#130;orf&#232;vre ordinaire du roi de France, le Belge Jacques Ro&#235;tiers, avant de s&#130;installer &#224; Bruxelles, vraisemblablement &#224; l&#130;invitation de Charles de Lorraine. Malgr&#233; sa r&#233;putation et son exp&#233;rience, il dut se soumettre aux chicanes du m&#233;tier des orf&#232;vres de Bruxelles et n&#130;y fut reçu maître qu&#130;en 1773, apr&#232;s un nouvel apprentissage dans l&#130;atelier de Roos. Orf&#232;vre de la Cour de Bruxelles, le reste de sa production, notamment pour de riches abbayes brabançonnes, n&#130;est connu que par des documents d&#130;archives et des dessins de son fr&#232;re architecte."
+               },
+               "sousOeuvre" : [
+               ]
+          }
+     ]
+},
+{
+     "idLifi" : "388",
+     "mapNumber" : "16",
+     "coordinates" : "1542-342",
+     "etage" : "1",
+     "oeuvre" : [
+          {
+               "idOeuvre" : "GC.ARC.01a.1907.000608",
+               "coordOeuvre" : "1587,357",
+               "imageOeuvre" : "GC.ARC.01a.1907.000608.jpg",
+               "textes" : {
+                    "chapeauOeuvre" : "Cet &#233;l&#233;ment sculpt&#233; du 9e si&#232;cle a &#233;t&#233; d&#233;couvert dans les fouilles entreprises &#224; Li&#232;ge en 1907, &#224; l&#130;emplacement du chur ouest de l&#130;ancienne cath&#233;drale Saint-Lambert. Il &#233;tait encastr&#233;, certainement comme mat&#233;riau de remploi, dans un mur reliant la crypte &#224; la nef de l&#130;&#233;glise.<br />",
+                    "legendeImageOeuvre" : "Fragment de cancel.",
+                    "titreOeuvre" : "Fragment de cancel",
+                    "descriptionOeuvre" : "Il s&#130;agit d&#130;un fragment de frise inspir&#233; par l&#130;antique.  Le d&#233;cor est compos&#233; d&#130;enroulements sym&#233;triques faits de motifs v&#233;g&#233;taux, principalement des palmettes. Ce genre de d&#233;cors se retrouve aussi, &#224; la m&#234;me &#233;poque, dans la sculpture sur ivoire."
+               },
+               "sousOeuvre" : [
+                    {
+                         "idSSOeuvre" : "39",
+                         "imageSSOeuvre" : "GC.ARC.01a.1907.000608-11.jpg",
+                         "textes" : {
+                              "chapeauSSOeuvre" : "El&#233;ment de cancel de l&#233;glise Saint-Pierre aux Nonnains. Mus&#233;es de la Cour dOr, Metz.",
+                              "legendeImageSSOeuvre" : "El&#233;ment de cancel de l&#233;glise Saint-Pierre aux Nonnains. Mus&#233;es de la Cour dOr, Metz.",
+                              "descriptionSSOeuvre" : "Ce type d&#130;ornement est courant dans la sculpture sur pierre et sur stuc des &#233;glises carolingiennes, comme le cancel de l&#130;oratoire de Germigny-des-Pr&#233;s, dat&#233; de l&#130;an 806. Ces &#233;l&#233;ments servaient de s&#233;paration entre la nef et le sanctuaire. "
+                         }
+                    },
+                    {
+                         "idSSOeuvre" : "40",
+                         "imageSSOeuvre" : "GC.ARC.01a.1907.000608-12.jpg",
+                         "textes" : {
+                              "chapeauSSOeuvre" : "Fragment de frise en stuc de loratoire de Germiny-des-Pr&#233;s, d&#233;but 9e S. Mus&#233;e dOrl&#233;ans.",
+                              "legendeImageSSOeuvre" : "Fragment de frise en stuc de loratoire de Germiny-des-Pr&#233;s, d&#233;but 9e S. Mus&#233;e dOrl&#233;ans.",
+                              "descriptionSSOeuvre" : "Pas de texte"
+                         }
+                    },
+                    {
+                         "idSSOeuvre" : "41",
+                         "imageSSOeuvre" : "GC.ARC.01a.1907.000608-13.jpg",
+                         "textes" : {
+                              "chapeauSSOeuvre" : "Calice de Lebuinus, d&#233;but 9e s. Utrecht, Catharijneconvent Museum.",
+                              "legendeImageSSOeuvre" : "Calice de Lebuinus, d&#233;but 9e s. Utrecht, Catharijneconvent Museum.",
+                              "descriptionSSOeuvre" : "Il est possible que ces fragments proviennent d&#130;une &#233;glise ant&#233;rieure &#233;difi&#233;e &#224; l&#130;emplacement du lieu de d&#233;couverte. Dans ce cas, leur pr&#233;sence indique qu&#130;une centaine d&#130;ann&#233;es apr&#232;s l&#130;assassinat de saint Lambert s&#130;&#233;levait d&#233;j&#224; sur le site de son martyre un &#233;difice richement d&#233;cor&#233;, bien en phase avec les modes de son temps."
+                         }
+                    }
+               ]
+          }
+     ]
+},
+{
+     "idLifi" : "8226",
+     "mapNumber" : "21",
+     "coordinates" : "1284-792",
+     "etage" : "1",
+     "oeuvre" : [
+          {
+               "idOeuvre" : "GC.ARC.01e.1883.50365",
+               "coordOeuvre" : "1312,847",
+               "imageOeuvre" : "GC.ARC.01e.1883.50365-01.jpg",
+               "textes" : {
+                    "chapeauOeuvre" : "Ce fragment de diplôme militaire a &#233;t&#233; trouv&#233; dans la Meuse en 1880, &#224; hauteur de Fl&#233;malle-Haute (en province de Li&#232;ge).  Il fournit de pr&#233;cieuses indications sur l&#130;origine des cavaleries et des cohortes d&#130;infanterie auxquelles appartenaient les soldats d&#233;mobilis&#233;s ayant servi en Grande-Bretagne.",
+                    "legendeImageOeuvre" : "Fragments du diplôme militaire de Fl&#233;malle.",
+                    "titreOeuvre" : "Fragments d&#130;un diplôme militaire",
+                    "descriptionOeuvre" : "A l&#130;origine, ce document prenait la forme d&#130;un livret compos&#233; de plusieurs plaques de bronze perfor&#233;es et reli&#233;es entre-elles. Ce diplôme a &#233;t&#233; grav&#233; en 98 ap. J.-C. Le nom du v&#233;t&#233;ran, celui de son corps d&#130;arm&#233;e ainsi que celui de son commandant ne nous sont pas parvenus, ni m&#234;me la nature de son grade. Toutefois, les inscriptions conserv&#233;es laissent supposer que ce soldat &#233;tait originaire de la cit&#233; des Tongres. "
+               },
+               "sousOeuvre" : [
+                    {
+                         "idSSOeuvre" : "4",
+                         "imageSSOeuvre" : "GC.ARC.01e.1883.50365-02.jpg",
+                         "textes" : {
+                              "chapeauSSOeuvre" : "Diplôme militaire de Fl&#233;malle, face interne. Texte officiel en &#233;criture cursive.",
+                              "legendeImageSSOeuvre" : "Diplôme militaire de Fl&#233;malle, face interne. Texte officiel en &#233;criture cursive.",
+                              "descriptionSSOeuvre" : "Des diplômes militaires contemporains plus complets ont permis de restituer avec exactitude l&#130;enti&#232;ret&#233; du texte original. Les soldats auxiliaires ayant servi 25 ann&#233;es dans l&#130;arm&#233;e romaine recevaient un diplôme qui leur conf&#233;rait l&#130;honesta missio (le cong&#233; honorable), c&#130;est-&#224;-dire la mise &#224; la retraite. Le titulaire de ce de document ainsi que ses descendants recevaient d&#130;importants privil&#232;ges de l&#130;empereur : la citoyennet&#233; romaine et le droit au mariage l&#233;galement reconnu."
+                         }
+                    },
+                    {
+                         "idSSOeuvre" : "5",
+                         "imageSSOeuvre" : "GC.ARC.01e.1883.50365-11.jpg",
+                         "textes" : {
+                              "chapeauSSOeuvre" : "Liste des t&#233;moins et de leurs sceaux. Diplôme militaire de Slavonski Brod grav&#233; en l&#130;an 71 sous l&#130;empereur Vespasien. Mus&#233;e de Slavonski Brod (Croatie).",
+                              "legendeImageSSOeuvre" : "Liste des t&#233;moins et de leurs sceaux. Diplôme militaire de Slavonski Brod grav&#233; en l&#130;an 71 sous l&#130;empereur Vespasien. Mus&#233;e de Slavonski Brod (Croatie).",
+                              "descriptionSSOeuvre" : "Le texte officiel, grav&#233; dans le diplôme, &#233;tait scell&#233; devant 7 t&#233;moins afin d&#130;&#233;viter toute falsification. Il &#233;tait remis aux autorit&#233;s locales o&#249; le v&#233;t&#233;ran souhaitait s&#130;&#233;tablir. Celles-ci brisaient les scell&#233;s et se chargeaient d&#130;accorder les privil&#232;ges annonc&#233;s dans le document officiel."
+                         }
+                    },
+                    {
+                         "idSSOeuvre" : "6",
+                         "imageSSOeuvre" : "GC.ARC.01e.1883.50365-12.jpg",
+                         "textes" : {
+                              "chapeauSSOeuvre" : "Temple du divin Auguste. Sesterce &#233;mis &#224; Rome sous l&#130;empereur Caligula. Classical Numismatic Group.",
+                              "legendeImageSSOeuvre" : "Temple du divin Auguste. Sesterce &#233;mis &#224; Rome sous l&#130;empereur Caligula. Classical Numismatic Group.",
+                              "descriptionSSOeuvre" : "Une copie conforme du document officiel &#233;tait affich&#233;e &#224; Rome, sur le mur du temple d&#130;Auguste divinis&#233;."
+                         }
+                    }
+               ]
+          }
+     ]
+},
+{
+     "idLifi" : "7752",
+     "mapNumber" : "28",
+     "coordinates" : "246-522",
+     "etage" : "2",
+     "oeuvre" : [
+          {
+               "idOeuvre" : "GC.ADC.05g.0000.56865",
+               "coordOeuvre" : "261,475",
+               "imageOeuvre" : "GC.ADC.05g.0000.56865.jpg",
+               "textes" : {
+                    "chapeauOeuvre" : "La Vierge &#224; lEnfant pr&#233;sent&#233;e ici a &#233;t&#233; attribu&#233; &#224; latelier de Coeck par G. Marlier ; elle daterait des ann&#233;es 1530. La jeune m&#232;re est assise devant un parapet qui rappelle le symbole virginal de lhortus conclusus m&#233;di&#233;val (un jardin clos consacr&#233; &#224; la Vierge Marie, une vision paradisiaque).",
+                    "legendeImageOeuvre" : "Vierge &#224; l&#130;Enfant. Pieter Coeck, vers 1550. Grand Curtius, Li&#232;ge.",
+                    "titreOeuvre" : "Vierge &#224; l&#130;Enfant",
+                    "descriptionOeuvre" : "Derri&#232;re la Vierge souvre un paysage champ&#234;tre qui t&#233;moigne dune excellente maîtrise de lespace. Tout absorb&#233;e par sa lecture, &#224; la mani&#232;re des &#233;rudits, la Vierge retient machinalement lEnfant assis sur ses genoux, entortill&#233; dans le voile qui descend de la coiffure de sa m&#232;re, voile consid&#233;r&#233; comme une pr&#233;figure du suaire de la Passion et image de lImmacul&#233;e Conception.<br /><br />Pieter Coeck van Aelst [Pierre Coeck dAlost] (Alost 1502  Bruxelles 1550), fut &#224; la fois peintre, architecte, dessinateur et &#233;diteur. Form&#233; peut-&#234;tre dans latelier de Bernard Van Orley, il fit le voyage dItalie avait de sinstaller &#224; Anvers puis &#224; Bruxelles. Peintre ordinaire de Charles Quint, authentique repr&#233;sentant de la « Renaissance flamande », il sest illustr&#233; dans de multiples domaines : esquisses pour vitraux, cartons de tapisserie, traductions de trait&#233;s darchitectures<br />Linventaire de son oeuvre peint demeure malais&#233; et on a du mal &#224; distinguer les oeuvres autographes des travaux datelier. On consid&#232;re en outre que nombre de travaux furent perdus pendant la crise iconoclaste. Son style conjugue linfluence de Raphael et le mani&#233;risme anversois."
+               },
+               "sousOeuvre" : [
+               ]
+          }
+     ]
+},
+{
+     "idLifi" : "13006",
+     "mapNumber" : "33",
+     "coordinates" : "385-605",
+     "etage" : "2",
+     "oeuvre" : [
+          {
+               "idOeuvre" : "PA.BUC.25a.2006.010104",
+               "coordOeuvre" : "404,621",
+               "imageOeuvre" : "PA.BUC.25a.2006.010104.jpg",
+               "textes" : {
+                    "chapeauOeuvre" : "Erard de la Marck, prince-&#233;v&#234;que de 1505 &#224; 1538, avait fait ex&#233;cuter de son vivant un mausol&#233;e qui devait perp&#233;tuer sa m&#233;moire et marquer son prestige. Achev&#233; en 1528, ce somptueux monument  est plac&#233; au milieu du chur de la cath&#233;drale Saint-Lambert. Ce monument fun&#233;raire disparut en m&#234;me temps que la cath&#233;drale en 1794.<br />",
+                    "legendeImageOeuvre" : "Mausol&#233;e dErard de la Marck, dessin du chanoine Van den Berch. Ins&#233;r&#233; dans Chronique de Li&#232;ge jusqu&#224; lann&#233;e 1612, Vol. II, 17e S, Ms. de Theux 927. Biblioth&#232;que Ulysse Capitaine, Li&#232;ge.<br /><br />",
+                    "titreOeuvre" : "Mausol&#233;e dErard de la Marck, dessin du chanoine Van den Berch ins&#233;r&#233; dans la Chronique de Li&#232;ge jusqu&#224; lann&#233;e 1612",
+                    "descriptionOeuvre" : "Dans son testament dict&#233; le 18 janvier 1535, Erard de la Marck stipulait que son corps  embaum&#233;, devait &#234;tre d&#233;pos&#233; dans ce mausol&#233;e, que son cur serait inhum&#233; dans l&#233;glise du couvent des Croisiers &#224; Huy, et ses entrailles dans celle du monast&#232;re des Sept Fontaines, pr&#232;s de Bruxelles.<br /><br />Aujourd&#130;hui disparu, ce monument majestueux, remarquable &#224; la fois pour son esth&#233;tique et la richesse dans les mat&#233;riaux utilis&#233;s (il &#233;tait en effet r&#233;alis&#233; en laiton dor&#233;, ou bronze dor&#233;, marbre, jaspe, porphyre, enti&#232;rement recouvert dune &#233;paisse couche de dorure)  est consid&#233;r&#233; comme un des monuments les plus remarquables dans lart mosan. Plusieurs mentions en ont &#233;t&#233; faites : par Guichardin la premi&#232;re fois, dans sa description des Pays-Bas. Th&#233;odore de Bry en a grav&#233; un dessin pour le frontispice dun ouvrage paru &#224; Francfort  en 1598. Philippe de Hurghes visitant Li&#232;ge en 1615 le mentionne.<br />Mais cest le  chanoine Van den Berch qui  en a laiss&#233; la description la plus exacte et la plus compl&#232;te.<br /><br />Henry Van den Berch est n&#233; &#224; Li&#232;ge le 31 mai 1592 et  mort en 1666, dans cette m&#234;me ville. Il &#233;tait h&#233;raut darmes et g&#233;n&#233;alogiste.<br />Sa passion des choses du pass&#233; le fait sillonner le pays, mais aussi la Moselle, le Rhin. Il s&#233;journe dans de nombreuses villes dont Gand, Nieuport et  Rome. Il sattache &#224; copier &#233;pitaphes, blasons et sceaux, &#224; dessiner les monuments, les d&#233;crire.<br /><br />Il ne peut donc que sint&#233;resser &#224; ce tombeau qui &#233;tait lorgueil de la cath&#233;drale. Il consigne par &#233;crit une description des plus minutieuse : mat&#233;riaux utilis&#233;s, dimensions. Il &#233;tablit une iconographie tr&#232;s pr&#233;cise. Un dessin complet est ins&#233;r&#233; dans sa Chronique de Li&#232;ge jusqu&#130;&#224; l&#130;ann&#233;e 1612 (1623).<br />Ce dessin &#224; lencre color&#233; en jaune forme les folios 383 et 383 bis du tome II.  <br />Il repr&#233;sente la vue quun spectateur pouvait en avoir plac&#233; du côt&#233; de l&#233;pître, c&#130;est-&#224;-dire la face m&#233;ridionale du tombeau.  "
+               },
+               "sousOeuvre" : [
+               ]
+          }
+     ]
+},
+{
+     "idLifi" : "13695",
+     "mapNumber" : "48",
+     "coordinates" : "1295-337",
+     "etage" : "2",
+     "oeuvre" : [
+          {
+               "idOeuvre" : "GC.REL.23a.1500.004808",
+               "coordOeuvre" : "1262,331",
+               "imageOeuvre" : "GC.REL.23a.1500.004808.jpg",
+               "textes" : {
+                    "chapeauOeuvre" : "Le retable de saint Remacle, cr&#233;e &#224; Stavelot vers 1150 sous l&#130;abb&#233; Wibald, a aujourd&#130;hui disparu, mais ce dessin de 1666 le reproduit fid&#232;lement. ",
+                    "legendeImageOeuvre" : "Dessin du retable de saint Remacle, d&#233;pôt temporaire des Archives de l&#130;Etat &#224; Li&#232;ge.",
+                    "titreOeuvre" : "Dessin du retable de saint Remacle",
+                    "descriptionOeuvre" : "Le retable &#233;tait consacr&#233; &#224; une &#233;vocation de la vie de saint Remacle, le fondateur de labbaye ardennaise. Le monument mesurait plus ou moins 2,75 m sur 2,78 m. Il &#233;tait fait de 15 kg dargent et d1 kg dor. Initialement, il abritait la châsse contenant les reliques du saint, dans la niche centrale. Plus tard, vers le milieu du 13e S, une nouvelle châsse fut ex&#233;cut&#233;e en l&#130;honneur du saint et l&#130;ancienne châsse accueilla la d&#233;pouille de saint Babolin.<br /><br />Sur le pignon de la châsse, au centre de la niche, saint Remacle montre le Christ entour&#233; des saints Pierre et Remacle. Au-dessus, deux anges portent une relique de la Croix. Le fronton de la niche est timbr&#233; de trois m&#233;daillons &#233;maill&#233;s repr&#233;sentant la colombe du Saint-Esprit, et les all&#233;gories de FIDES BABTISMVS (la Foi dans le Bapt&#234;me) et dOPERATIO (les Bonnes uvres),  principaux &#233;l&#233;ments rescap&#233;s du retable.<br />De part et dautre de la niche se r&#233;partissent, sur deux registres, huit reliefs &#233;voquant certains &#233;pisodes de la vie de saint Remacle. Ils se lisent de bas en haut. On y voit, au registre inf&#233;rieur, &#224; gauche de la niche, saint Remacle enfant pr&#233;sent&#233; par ses parents &#224; saint Eloi ; saint Remacle recevant du roi m&#233;rovingien Sigebert la crosse &#233;piscopale; &#224; droite, le songe de saint Trudon et la rencontre de saint Remacle et de saint Trudon ; au registre sup&#233;rieur, &#224; gauche, le roi Sigebert donnant &#224; saint Remacle le territoire de Stavelot-Malmedy ; la construction de l&#233;glise de Malmedy ; &#224; droite, la construction de l&#233;glise de Stavelot et les fun&#233;railles de saint Remacle. Le tympan en demi-lune qui surmonte le tout est timbr&#233;  en son centre dun polylobe repr&#233;sentant le ciel. Sa figure m&#233;diane est un Christ b&#233;nissant, entour&#233; dall&#233;gories de vertus, des &#233;vang&#233;listes et des  fleuves du Paradis. Le tympan est divis&#233; en deux registres occup&#233;s par des groupes danges adorateurs, ainsi que des repr&#233;sentations dEnoch et dElie, et dun ange apparaissant &#224; saint Remacle.<br /><br />"
+               },
+               "sousOeuvre" : [
+                    {
+                         "idSSOeuvre" : "69",
+                         "imageSSOeuvre" : "GC.REL.23a.1500.004808-11.jpg",
+                         "textes" : {
+                              "chapeauSSOeuvre" : "Fouilles de l&#233;glise abbatiale de Stavelot. ",
+                              "legendeImageSSOeuvre" : "Fouilles de l&#233;glise abbatiale de Stavelot. ",
+                              "descriptionSSOeuvre" : "La magnificence de ce retable t&#233;moigne en tout &#233;tat de cause &#224; la fois du prestige de labbaye stavelotaine &#224; cette &#233;poque et de la haute qualit&#233; des productions orf&#233;vr&#233;es issues des ateliers du dioc&#232;se de Li&#232;ge. Sur le pourtour de larc sont inscrits les noms des localit&#233;s dont les revenus ont permis &#224; labbaye de financer lex&#233;cution du retable. "
+                         }
+                    },
+                    {
+                         "idSSOeuvre" : "70",
+                         "imageSSOeuvre" : "GC.REL.23a.1500.004808-12.jpg",
+                         "textes" : {
+                              "chapeauSSOeuvre" : "M&#233;daillon « OPERATIO » de lancien retable de saint Remacle. Vers 1155. Kunstgewerbemuseum, Berlin,.",
+                              "legendeImageSSOeuvre" : "M&#233;daillon « OPERATIO » de lancien retable de saint Remacle. Vers 1155. Kunstgewerbemuseum, Berlin,.",
+                              "descriptionSSOeuvre" : "Seuls quelques fragments du monument ont subsist&#233;, dont deux m&#233;daillons &#233;maill&#233;s qui flanquaient le tympan de la niche centrale."
+                         }
+                    }
+               ]
+          }
+     ]
+},
+{
+     "idLifi" : "8226",
+     "mapNumber" : "8226",
+     "coordinates" : "1493-898",
+     "etage" : "2",
+     "oeuvre" : [
+          {
+               "idOeuvre" : "UX.WAL.05b.0000.2051",
+               "coordOeuvre" : "N/A",
+               "imageOeuvre" : "BA.WAL.05b.0000.2051-01.jpg",
+               "textes" : {
+                    "chapeauOeuvre" : "Cet ensemble provient de l&#130;importante abbaye cistercienne d&#130;Herckenrode. Il a &#233;t&#233; dispers&#233; peu apr&#232;s la R&#233;volution, en 1794.Chacun de ces tableaux repr&#233;sente un &#233;pisode inspir&#233; par la Bible ou l&#130;histoire romaine mettant en &#233;vidence la vertu ou le courage d&#130;un femme qui devenait ainsi objet de m&#233;ditation pour les religieuses. ",
+                    "legendeImageOeuvre" : "David et Abiga&#235;l. Grand Curtius, Li&#232;ge.",
+                    "titreOeuvre" : "Cycle des Femmes Vertueuses",
+                    "descriptionOeuvre" : "Ces 4 tableaux red&#233;couverts et identifi&#233;s, il y a quelques ann&#233;es (1989), dans les collections communales appartiennent &#224; une s&#233;rie de 8. Les 4 autres ont aussi &#233;t&#233; retrouv&#233;s r&#233;cemment (2004) &#224; l&#130;&#233;glise Saint-Amand de Stockrooie (Hasselt). "
+               },
+               "sousOeuvre" : [
+               ]
+          }
+     ]
+},
+{
+     "idLifi" : "9948",
+     "mapNumber" : "9948",
+     "coordinates" : "1735-867",
+     "etage" : "2",
+     "oeuvre" : [
+          {
+               "idOeuvre" : "UX.REL.05a.1983.34062",
+               "coordOeuvre" : "1735,82",
+               "imageOeuvre" : "GC.REL.05a.1983.34062.jpg",
+               "textes" : {
+                    "chapeauOeuvre" : "La peinture repr&#233;sente, sur une face la Fuite en Egypte, sur lautre le Couronnement de la Vierge.<br />La Fuite en Egypte connaît ici lune des plus belles &#233;vocations de ce th&#232;me tr&#232;s populaire aux 15e et 16e S. Le panneau constitue le volet dun polyptyque marial, dont un autre volet conserv&#233; en collection priv&#233;e montre la Pr&#233;sentation de la Vierge au temple et sa Dormition",
+                    "legendeImageOeuvre" : "La Fuite en Egypte et la Glorification de la Vierge. Rhin inf&#233;rieur (?), vers 1480. Grand Curtius, Li&#232;ge.<br />",
+                    "titreOeuvre" : "La Fuite en Egypte et la Glorification de la Vierge<br />",
+                    "descriptionOeuvre" : "Marie juch&#233;e sur un âne tend d&#233;licatement &#224; lEnfant une monnaie dor, allusion &#224; celle dont avait fait pr&#233;sent &#224; J&#233;sus chacun des Rois mages. Joseph dirige la monture, le visage inquiet. Cette inqui&#233;tude trouve sa justification dans le tableau m&#234;me : au d&#233;tour dune colline, savance le roi H&#233;rode et ses soldats, en qu&#234;te de lEnfant. Les poursuivants arrivent &#224; hauteur dun paysan devant un champ que la Sainte-Famille venait de traverseralors quil semait. Mais au moment m&#234;me, le bl&#233; mûrit, d&#233;courageant ainsi H&#233;rode de pouvoir rattraper les fugitifs. A larri&#232;re-plan, une idole païenne seffondre d une colonne : la Sainte-Famille entre en Egypte.<br /><br />La ville ceinte de remparts &#224; larri&#232;re-plan fait naïvement r&#233;f&#233;rence &#224; lOrient. Elle rappelle les remparts urbains dont maintes cit&#233;s des Pays-Bas et de la principaut&#233; de Li&#232;ge &#233;taient entour&#233;es au 15e s. Lhorizon haut, trait&#233; en camaïeu bleut&#233;, est h&#233;riss&#233; de quelques massifs rocheux sur lesquels perchent clochers et châteaux, mais aussi des gibets et des roues, discr&#232;tes &#233;vocations des malheurs du temps.<br /><br />Au revers figure la Glorification de la Vierge : Marie recueillie et couronn&#233;e est assise &#224; côt&#233; du P&#232;re, identifiable &#224; ses traits âg&#233;s et &#224; la couronne imp&#233;riale- en guise de tiare- dont est ceint son front. Le muret &#224; l arri&#232;re-plan fait r&#233;f&#233;rence au Jardin clos, symbole de la virginit&#233; mariale. Deux anges d&#233;ploient un dais dhonneur pour cette sc&#232;ne cens&#233;e se d&#233;rouler au Ciel."
+               },
+               "sousOeuvre" : [
+               ]
+          },
+          {
+               "idOeuvre" : "UX.REL.23a.2008.000854",
+               "coordOeuvre" : "1765,837",
+               "imageOeuvre" : "GC.REL.23a.2008.000854.jpg",
+               "textes" : {
+                    "chapeauOeuvre" : "Ce pr&#233;cieux dessin est directement inspir&#233; dun tableau de Jean van Eyck dat&#233; vers 1425 et consid&#233;r&#233; comme uvre de jeunesse de lartiste (Staatliche Museen de Berlin). Plusieurs versions en sont connues, mais cette derni&#232;re est consid&#233;r&#233;e comme lauthentique. ",
+                    "legendeImageOeuvre" : "La vierge dans l&#130;&#233;glise. Suite de van Eyck, fin 15e S. Grand Curtius, Li&#232;ge.",
+                    "titreOeuvre" : "La vierge dans l&#130;&#233;glise",
+                    "descriptionOeuvre" : "La Vierge &#224; lEnfant est repr&#233;sent&#233;e dans la nef centrale dune &#233;glise gothique. Son front est ceint dune grande couronne orf&#233;vr&#233;e. Elle est v&#234;tue dun manteau aux amples drap&#233;s sur lequel se r&#233;pand sa longue chevelure. L&#233;glise voût&#233;e est un &#233;difice &#224; trois nefs  travers&#233; par un transept et port&#233; par des piles en faisceaux de colonnettes. Un jub&#233; gothique finement sculpt&#233; pr&#233;c&#232;de le chur. Il abrite un autel marial et est surmont&#233; dun Calvaire. Dans le sanctuaire, sur&#233;lev&#233; de quelques marches et prolong&#233; par une abside &#224; cinq pans, se tiennent deux anges. "
+               },
+               "sousOeuvre" : [
+               ]
+          }
+     ]
+}
+]

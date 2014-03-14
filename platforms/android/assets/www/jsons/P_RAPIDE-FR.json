@@ -1,0 +1,313 @@
+
+[
+{
+     "idLifi" : "15375",
+     "mapNumber" : "2",
+     "coordinates" : "435-597",
+     "etage" : "1",
+     "oeuvre" : [
+          {
+               "idOeuvre" : "GC.ADC.06b.1995.66594",
+               "coordOeuvre" : "241,629",
+               "imageOeuvre" : "GC.ADC.06b.1995.66594-01.jpgseb",
+               "textes" : {
+                    "chapeauOeuvre" : "Ce piano, tout comme le billard, ont été conçu par Gustave Serrurier-Bovy pour le château de la Chapelle-en-Serval.  Le peintre liégeois Emile Berchmans (1867 - 1947) a réalisé les panneaux peints du piano ainsi que du casier à musique. L&#39;instrument proprement dit est une réalisation de la maison Pleyel à Paris.",
+                    "legendeImageOeuvre" : "Piano demi-queue réalisé par Gustave Serrurier-Bovy,  Emile Berchmans et la maison Pleyel à Paris. Grand Gurtius, Liège.",
+                    "titreOeuvre" : "Piano demi-queue réalisé par Gustave Serrurier-Bovy,  Emile Berchmans et la maison Pleyel à Paris",
+                    "descriptionOeuvre" : "Gustave Serrurier-Bovy (1858  1910) est à juste titre reconnu comme une des figures majeures de l&#39;Art nouveau en Belgique au même titre que Van de Velde et Horta."
+               },
+               "sousOeuvre" : [
+                    {
+                         "idSSOeuvre" : "133",
+                         "imageSSOeuvre" : "GC.ADC.06b.1995.66594-12.jpg",
+                         "textes" : {
+                              "chapeauSSOeuvre" : "Affiche signée Berchmans et imprimée chez Bénard à Liège",
+                              "legendeImageSSOeuvre" : "Affiche signée Berchmans et imprimée chez Bénard à Liège",
+                              "descriptionSSOeuvre" : "Le peintre liégeois Emile Berchmans (1867 - 1947) a souvent collaboré avec d&#39;autres architectes contemporains comme Paul Jaspar (1859 – 1945) pour la décoration d&#39;intérieurs. Il est aussi l&#39;auteur de la grande affiche imprimée chez Bénard pour le magasin de Bruxelles de la maison Serrurier-Bovy."
+                         }
+                    },
+                    {
+                         "idSSOeuvre" : "134",
+                         "imageSSOeuvre" : "GC.ADC.06b.1995.66594-13.jpg",
+                         "textes" : {
+                              "chapeauSSOeuvre" : "Salle de billard de la Chapelle-en-Serval, photographie d&#39;époque",
+                              "legendeImageSSOeuvre" : "Salle de billard de la Chapelle-en-Serval, photographie d&#39;époque",
+                              "descriptionSSOeuvre" : "Vandalisé durant la première guerre mondiale, cet ensemble est fort bien documenté par des articles illustrés de l&#39;époque qui nous présentent ces objets remarquables dans leur contexte."
+                         }
+                    },
+                    {
+                         "idSSOeuvre" : "135",
+                         "imageSSOeuvre" : "GC.ADC.06b.1995.66594-11.jpg",
+                         "textes" : {
+                              "chapeauSSOeuvre" : "Portait photographique de Gustave Serrurier-Bovy.",
+                              "legendeImageSSOeuvre" : "Portait photographique de Gustave Serrurier-Bovy.",
+                              "descriptionSSOeuvre" : "Pas de texte"
+                         }
+                    },
+                    {
+                         "idSSOeuvre" : "136",
+                         "imageSSOeuvre" : "GC.ADC.06b.1995.66594-14.jpg",
+                         "textes" : {
+                              "chapeauSSOeuvre" : "Projet aquarellé pour la mosaïque de la Villa l&#39;Aube par Auguste Donnay.",
+                              "legendeImageSSOeuvre" : "Projet aquarellé pour la mosaïque de la Villa l&#39;Aube par Auguste Donnay.",
+                              "descriptionSSOeuvre" : "Architecte, mais surtout créateur de mobilier, Gustave-Serrurier-Bovy réalise quelques ensembles remarquables consistant en la décoration complète d&#39; immeubles importants. Il conçoit ainsi la décoration du château de la Chapelle-en-Serval près de Compiègne (1901), sa propre Villa L&#39;Aube à Cointe (1903), La Cheyrelle à Dienne en Auvergne (1903-1909) et enfin la Villa Ortiz-Basualdo à Mar del Plata en Argentine (1910-1912). Si ces ensembles sont  aujourd&#39;hui bien documentés, ils ont, en revanche, presque tous été dispersés. "
+                         }
+                    }
+               ]
+          }
+     ]
+},
+{
+     "idLifi" : "9173",
+     "mapNumber" : "7",
+     "coordinates" : "472-1219",
+     "etage" : "1",
+     "oeuvre" : [
+          {
+               "idOeuvre" : "GC.ADC.07c.0000.63956",
+               "coordOeuvre" : "472,1219",
+               "imageOeuvre" : "GC.ADC.07c.0000.63956.jpg",
+               "textes" : {
+                    "chapeauOeuvre" : "Ces deux vases appartiennent à un ensemble prestigieux de dix pièces soit six vases et quatre cornets. Quatre vases et deux cornets ont été réalisés en porcelaine tendre de Tournai, à l&#39;imitation parfaite de deux vases et deux cornets en porcelaine dure chinoise de l&#39;époque Qianlong (1736-1795). Cet ensemble est aujourd&#39;hui dispersé entre la collection Philippe de Rothschild à Paris, la donation James de Rothschild à Waddesdon Manor et le Grand Curtius. Ces deux-ci pourraient également provenir de la branche autrichienne de cette famille.",
+                    "legendeImageOeuvre" : "Paire de vases en porcelaine de Tournai, vers 1776-1777, anciens Pays-Bas méridionaux. Grand Curtius, Liège.",
+                    "titreOeuvre" : "Paire de vases en porcelaine de Tournai",
+                    "descriptionOeuvre" : "Les pièces en Tournai ont été conçues pour être montées et les éléments d&#39;origine chinoise ne présentent aucun &#39;accident qu&#39;il fallait dissimuler. On remarquera cependant que les vases chinois devaient très vraisemblablement être couverts à l&#39;origine. L&#39;ensemble a donc été enrichi de bronzes dorés dans le seul but d&#39;en augmenter le prestige.<br /><br />Il ne semble plus faire de doute que cet ensemble prestigieux ait été conçu pour le grand salon du Palais de Bruxelles du Gouverneur des anciens Pays-Bas, Charles-Alexandre de Lorraine (1712-1780). Ils sont signalés dans l&#39;inventaire de sa mortuaire et estimés 5.000 florins. Les bronzes dorés ont été exécutés en 1776-1777.<br />Le prince appréciait particulièrement les porcelaines orientales dont il confiait la monture aux meilleurs orfèvres. En témoignent les exceptionnels « service en or » et « service en argent » conservés à Vienne et auxquels ont travaillé des orfèvres londoniens, bruxellois et viennois.<br />Il manifestait également un intérêt certain pour la manufacture de faïences et de porcelaines de Peterinck à Tournai qui reçut le titre d&#39;impériale et fut protégée par son Gouvernement.<br /><br />Michel-Paul-Joseph Dewez (1742- 1804) a signé un cornet et un de nos vases : M. P. I. DE WEZ ORF. INV ET FECIT. Ce sont les seuls pièces conservées de cet orfèvre important et frère cadet du célèbre architecte Laurent-Benoit Dewez. Né dans le Luxembourg, d&#39;une famille originaire de Rechain (Verviers), il fut premier compagnon de l&#39;orfèvre ordinaire du roi de France, le Belge Jacques Roëtiers, avant de s&#39;installer à Bruxelles, vraisemblablement à l&#39;invitation de Charles de Lorraine. Malgré sa réputation et son expérience, il dut se soumettre aux chicanes du métier des orfèvres de Bruxelles et n&#39;y fut reçu maître qu&#39;en 1773, après un nouvel apprentissage dans l&#39;atelier de Roos. Orfèvre de la Cour de Bruxelles, le reste de sa production, notamment pour de riches abbayes brabançonnes, n&#39;est connu que par des documents d&#39;archives et des dessins de son frère architecte."
+               },
+               "sousOeuvre" : [
+               ]
+          }
+     ]
+},
+{
+     "idLifi" : "388",
+     "mapNumber" : "16",
+     "coordinates" : "1542-342",
+     "etage" : "1",
+     "oeuvre" : [
+          {
+               "idOeuvre" : "GC.ARC.01a.1907.000608",
+               "coordOeuvre" : "1587,357",
+               "imageOeuvre" : "GC.ARC.01a.1907.000608.jpg",
+               "textes" : {
+                    "chapeauOeuvre" : "Cet élément sculpté du 9e siècle a été découvert dans les fouilles entreprises à Liège en 1907, à l&#39;emplacement du chœur ouest de l&#39;ancienne cathédrale Saint-Lambert. Il était encastré, certainement comme matériau de remploi, dans un mur reliant la crypte à la nef de l&#39;église.<br />",
+                    "legendeImageOeuvre" : "Fragment de cancel.",
+                    "titreOeuvre" : "Fragment de cancel",
+                    "descriptionOeuvre" : "Il s&#39;agit d&#39;un fragment de frise inspiré par l&#39;antique.  Le décor est composé d&#39;enroulements symétriques faits de motifs végétaux, principalement des palmettes. Ce genre de décors se retrouve aussi, à la même époque, dans la sculpture sur ivoire."
+               },
+               "sousOeuvre" : [
+                    {
+                         "idSSOeuvre" : "39",
+                         "imageSSOeuvre" : "GC.ARC.01a.1907.000608-11.jpg",
+                         "textes" : {
+                              "chapeauSSOeuvre" : "Elément de cancel de l&#39;église Saint-Pierre aux Nonnains. Musées de la Cour d&#39;Or, Metz.",
+                              "legendeImageSSOeuvre" : "Elément de cancel de l&#39;église Saint-Pierre aux Nonnains. Musées de la Cour d&#39;Or, Metz.",
+                              "descriptionSSOeuvre" : "Ce type d&#39;ornement est courant dans la sculpture sur pierre et sur stuc des églises carolingiennes, comme le cancel de l&#39;oratoire de Germigny-des-Prés, daté de l&#39;an 806. Ces éléments servaient de séparation entre la nef et le sanctuaire. "
+                         }
+                    },
+                    {
+                         "idSSOeuvre" : "40",
+                         "imageSSOeuvre" : "GC.ARC.01a.1907.000608-12.jpg",
+                         "textes" : {
+                              "chapeauSSOeuvre" : "Fragment de frise en stuc de l&#39;oratoire de Germiny-des-Prés, début 9e S. Musée d&#39;Orléans.",
+                              "legendeImageSSOeuvre" : "Fragment de frise en stuc de l&#39;oratoire de Germiny-des-Prés, début 9e S. Musée d&#39;Orléans.",
+                              "descriptionSSOeuvre" : "Pas de texte"
+                         }
+                    },
+                    {
+                         "idSSOeuvre" : "41",
+                         "imageSSOeuvre" : "GC.ARC.01a.1907.000608-13.jpg",
+                         "textes" : {
+                              "chapeauSSOeuvre" : "Calice de Lebuinus, début 9e s. Utrecht, Catharijneconvent Museum.",
+                              "legendeImageSSOeuvre" : "Calice de Lebuinus, début 9e s. Utrecht, Catharijneconvent Museum.",
+                              "descriptionSSOeuvre" : "Il est possible que ces fragments proviennent d&#39;une église antérieure édifiée à l&#39;emplacement du lieu de découverte. Dans ce cas, leur présence indique qu&#39;une centaine d&#39;années après l&#39;assassinat de saint Lambert s&#39;élevait déjà sur le site de son martyre un édifice richement décoré, bien en phase avec les modes de son temps."
+                         }
+                    }
+               ]
+          }
+     ]
+},
+{
+     "idLifi" : "20069",
+     "mapNumber" : "21",
+     "coordinates" : "1284-792",
+     "etage" : "1",
+     "oeuvre" : [
+          {
+               "idOeuvre" : "GC.ARC.01e.1883.50365",
+               "coordOeuvre" : "1312,847",
+               "imageOeuvre" : "GC.ARC.01e.1883.50365-01.jpg",
+               "textes" : {
+                    "chapeauOeuvre" : "Ce fragment de diplôme militaire a été trouvé dans la Meuse en 1880, à hauteur de Flémalle-Haute (en province de Liège).  Il fournit de précieuses indications sur l&#39;origine des cavaleries et des cohortes d&#39;infanterie auxquelles appartenaient les soldats démobilisés ayant servi en Grande-Bretagne.",
+                    "legendeImageOeuvre" : "Fragments du diplôme militaire de Flémalle.",
+                    "titreOeuvre" : "Fragments d&#39;un diplôme militaire",
+                    "descriptionOeuvre" : "A l&#39;origine, ce document prenait la forme d&#39;un livret composé de plusieurs plaques de bronze perforées et reliées entre-elles. Ce diplôme a été gravé en 98 ap. J.-C. Le nom du vétéran, celui de son corps d&#39;armée ainsi que celui de son commandant ne nous sont pas parvenus, ni même la nature de son grade. Toutefois, les inscriptions conservées laissent supposer que ce soldat était originaire de la cité des Tongres. "
+               },
+               "sousOeuvre" : [
+                    {
+                         "idSSOeuvre" : "4",
+                         "imageSSOeuvre" : "GC.ARC.01e.1883.50365-02.jpg",
+                         "textes" : {
+                              "chapeauSSOeuvre" : "Diplôme militaire de Flémalle, face interne. Texte officiel en écriture cursive.",
+                              "legendeImageSSOeuvre" : "Diplôme militaire de Flémalle, face interne. Texte officiel en écriture cursive.",
+                              "descriptionSSOeuvre" : "Des diplômes militaires contemporains plus complets ont permis de restituer avec exactitude l&#39;entièreté du texte original. Les soldats auxiliaires ayant servi 25 années dans l&#39;armée romaine recevaient un diplôme qui leur conférait l&#39;honesta missio (le congé honorable), c&#39;est-à-dire la mise à la retraite. Le titulaire de ce de document ainsi que ses descendants recevaient d&#39;importants privilèges de l&#39;empereur : la citoyenneté romaine et le droit au mariage légalement reconnu."
+                         }
+                    },
+                    {
+                         "idSSOeuvre" : "5",
+                         "imageSSOeuvre" : "GC.ARC.01e.1883.50365-11.jpg",
+                         "textes" : {
+                              "chapeauSSOeuvre" : "Liste des témoins et de leurs sceaux. Diplôme militaire de Slavonski Brod gravé en l&#39;an 71 sous l&#39;empereur Vespasien. Musée de Slavonski Brod (Croatie).",
+                              "legendeImageSSOeuvre" : "Liste des témoins et de leurs sceaux. Diplôme militaire de Slavonski Brod gravé en l&#39;an 71 sous l&#39;empereur Vespasien. Musée de Slavonski Brod (Croatie).",
+                              "descriptionSSOeuvre" : "Le texte officiel, gravé dans le diplôme, était scellé devant 7 témoins afin d&#39;éviter toute falsification. Il était remis aux autorités locales où le vétéran souhaitait s&#39;établir. Celles-ci brisaient les scellés et se chargeaient d&#39;accorder les privilèges annoncés dans le document officiel."
+                         }
+                    },
+                    {
+                         "idSSOeuvre" : "6",
+                         "imageSSOeuvre" : "GC.ARC.01e.1883.50365-12.jpg",
+                         "textes" : {
+                              "chapeauSSOeuvre" : "Temple du divin Auguste. Sesterce émis à Rome sous l&#39;empereur Caligula. Classical Numismatic Group.",
+                              "legendeImageSSOeuvre" : "Temple du divin Auguste. Sesterce émis à Rome sous l&#39;empereur Caligula. Classical Numismatic Group.",
+                              "descriptionSSOeuvre" : "Une copie conforme du document officiel était affichée à Rome, sur le mur du temple d&#39;Auguste divinisé."
+                         }
+                    }
+               ]
+          }
+     ]
+},
+{
+     "idLifi" : "7752",
+     "mapNumber" : "28",
+     "coordinates" : "246-522",
+     "etage" : "2",
+     "oeuvre" : [
+          {
+               "idOeuvre" : "GC.ADC.05g.0000.56865",
+               "coordOeuvre" : "261,475",
+               "imageOeuvre" : "GC.ADC.05g.0000.56865.jpg",
+               "textes" : {
+                    "chapeauOeuvre" : "La Vierge à l&#39;Enfant présentée ici a été attribué à l&#39;atelier de Coeck par G. Marlier ; elle daterait des années 1530. La jeune mère est assise devant un parapet qui rappelle le symbole virginal de l&#39;hortus conclusus médiéval (un jardin clos consacré à la Vierge Marie, une vision paradisiaque).",
+                    "legendeImageOeuvre" : "Vierge à l&#39;Enfant. Pieter Coeck, vers 1550. Grand Curtius, Liège.",
+                    "titreOeuvre" : "Vierge à l&#39;Enfant",
+                    "descriptionOeuvre" : "Derrière la Vierge s&#39;ouvre un paysage champêtre qui témoigne d&#39;une excellente maîtrise de l&#39;espace. Tout absorbée par sa lecture, à la manière des érudits, la Vierge retient machinalement l&#39;Enfant assis sur ses genoux, entortillé dans le voile qui descend de la coiffure de sa mère, voile considéré comme une préfigure du suaire de la Passion et image de l&#39;Immaculée Conception.<br /><br />Pieter Coeck van Aelst [Pierre Coeck d&#39;Alost] (Alost 1502 – Bruxelles 1550), fut à la fois peintre, architecte, dessinateur et éditeur. Formé peut-être dans l&#39;atelier de Bernard Van Orley, il fit le voyage d&#39;Italie avait de s&#39;installer à Anvers puis à Bruxelles. Peintre ordinaire de Charles Quint, authentique représentant de la « Renaissance flamande », il s&#39;est illustré dans de multiples domaines : esquisses pour vitraux, cartons de tapisserie, traductions de traités d&#39;architectures…<br />L&#39;inventaire de son oeuvre peint demeure malaisé et on a du mal à distinguer les oeuvres autographes des travaux d&#39;atelier. On considère en outre que nombre de travaux furent perdus pendant la crise iconoclaste. Son style conjugue l&#39;influence de Raphael et le maniérisme anversois."
+               },
+               "sousOeuvre" : [
+               ]
+          }
+     ]
+},
+{
+     "idLifi" : "13006",
+     "mapNumber" : "33",
+     "coordinates" : "385-605",
+     "etage" : "2",
+     "oeuvre" : [
+          {
+               "idOeuvre" : "PA.BUC.25a.2006.010104",
+               "coordOeuvre" : "404,621",
+               "imageOeuvre" : "PA.BUC.25a.2006.010104.jpg",
+               "textes" : {
+                    "chapeauOeuvre" : "Erard de la Marck, prince-évêque de 1505 à 1538, avait fait exécuter de son vivant un mausolée qui devait perpétuer sa mémoire et marquer son prestige. Achevé en 1528, ce somptueux monument  est placé au milieu du chœur de la cathédrale Saint-Lambert. Ce monument funéraire disparut en même temps que la cathédrale en 1794.<br />",
+                    "legendeImageOeuvre" : "Mausolée d&#39;Erard de la Marck, dessin du chanoine Van den Berch. Inséré dans Chronique de Liège jusqu&#39;à l&#39;année 1612, Vol. II, 17e S, Ms. de Theux 927. Bibliothèque Ulysse Capitaine, Liège.<br /><br />",
+                    "titreOeuvre" : "Mausolée d&#39;Erard de la Marck, dessin du chanoine Van den Berch inséré dans la Chronique de Liège jusqu&#39;à l&#39;année 1612",
+                    "descriptionOeuvre" : "Dans son testament dicté le 18 janvier 1535, Erard de la Marck stipulait que son corps  embaumé, devait être déposé dans ce mausolée, que son cœur serait inhumé dans l&#39;église du couvent des Croisiers à Huy, et ses entrailles dans celle du monastère des Sept Fontaines, près de Bruxelles.<br /><br />Aujourd&#39;hui disparu, ce monument majestueux, remarquable à la fois pour son esthétique et la richesse dans les matériaux utilisés (il était en effet réalisé en laiton doré, ou bronze doré, marbre, jaspe, porphyre, entièrement recouvert d&#39;une épaisse couche de dorure)  est considéré comme un des monuments les plus remarquables dans l&#39;art mosan. Plusieurs mentions en ont été faites : par Guichardin la première fois, dans sa description des Pays-Bas. Théodore de Bry en a gravé un dessin pour le frontispice d&#39;un ouvrage paru à Francfort  en 1598. Philippe de Hurghes visitant Liège en 1615 le mentionne.<br />Mais c&#39;est le  chanoine Van den Berch qui  en a laissé la description la plus exacte et la plus complète.<br /><br />Henry Van den Berch est né à Liège le 31 mai 1592 et  mort en 1666, dans cette même ville. Il était héraut d&#39;armes et généalogiste.<br />Sa passion des choses du passé le fait sillonner le pays, mais aussi la Moselle, le Rhin. Il séjourne dans de nombreuses villes dont Gand, Nieuport et  Rome. Il s&#39;attache à copier épitaphes, blasons et sceaux, à dessiner les monuments, les décrire.<br /><br />Il ne peut donc que s&#39;intéresser à ce tombeau qui était l&#39;orgueil de la cathédrale. Il consigne par écrit une description des plus minutieuse : matériaux utilisés, dimensions. Il établit une iconographie très précise. Un dessin complet est inséré dans sa Chronique de Liège jusqu&#39;à l&#39;année 1612 (1623).<br />Ce dessin à l&#39;encre coloré en jaune forme les folios 383 et 383 bis du tome II.  <br />Il représente la vue qu&#39;un spectateur pouvait en avoir placé du côté de l&#39;épître, c&#39;est-à-dire la face méridionale du tombeau.  "
+               },
+               "sousOeuvre" : [
+               ]
+          }
+     ]
+},
+{
+     "idLifi" : "13695",
+     "mapNumber" : "48",
+     "coordinates" : "1295-337",
+     "etage" : "2",
+     "oeuvre" : [
+          {
+               "idOeuvre" : "GC.REL.23a.1500.004808",
+               "coordOeuvre" : "1262,331",
+               "imageOeuvre" : "GC.REL.23a.1500.004808.jpg",
+               "textes" : {
+                    "chapeauOeuvre" : "Le retable de saint Remacle, crée à Stavelot vers 1150 sous l&#39;abbé Wibald, a aujourd&#39;hui disparu, mais ce dessin de 1666 le reproduit fidèlement. ",
+                    "legendeImageOeuvre" : "Dessin du retable de saint Remacle, dépôt temporaire des Archives de l&#39;Etat à Liège.",
+                    "titreOeuvre" : "Dessin du retable de saint Remacle",
+                    "descriptionOeuvre" : "Le retable était consacré à une évocation de la vie de saint Remacle, le fondateur de l&#39;abbaye ardennaise. Le monument mesurait plus ou moins 2,75 m sur 2,78 m. Il était fait de 15 kg d&#39;argent et d&#39;1 kg d&#39;or. Initialement, il abritait la châsse contenant les reliques du saint, dans la niche centrale. Plus tard, vers le milieu du 13e S, une nouvelle châsse fut exécutée en l&#39;honneur du saint et l&#39;ancienne châsse accueilla la dépouille de saint Babolin.<br /><br />Sur le pignon de la châsse, au centre de la niche, saint Remacle montre le Christ entouré des saints Pierre et Remacle. Au-dessus, deux anges portent une relique de la Croix. Le fronton de la niche est timbré de trois médaillons émaillés représentant la colombe du Saint-Esprit, et les allégories de FIDES BABTISMVS (la Foi dans le Baptême) et d&#39;OPERATIO (les Bonnes œuvres),  principaux éléments rescapés du retable.<br />De part et d&#39;autre de la niche se répartissent, sur deux registres, huit reliefs évoquant certains épisodes de la vie de saint Remacle. Ils se lisent de bas en haut. On y voit, au registre inférieur, à gauche de la niche, saint Remacle enfant présenté par ses parents à saint Eloi ; saint Remacle recevant du roi mérovingien Sigebert la crosse épiscopale; à droite, le songe de saint Trudon et la rencontre de saint Remacle et de saint Trudon ; au registre supérieur, à gauche, le roi Sigebert donnant à saint Remacle le territoire de Stavelot-Malmedy ; la construction de l&#39;église de Malmedy ; à droite, la construction de l&#39;église de Stavelot et les funérailles de saint Remacle. Le tympan en demi-lune qui surmonte le tout est timbré  en son centre d&#39;un polylobe représentant le ciel. Sa figure médiane est un Christ bénissant, entouré d&#39;allégories de vertus, des évangélistes et des  fleuves du Paradis. Le tympan est divisé en deux registres occupés par des groupes d&#39;anges adorateurs, ainsi que des représentations d&#39;Enoch et d&#39;Elie, et d&#39;un ange apparaissant à saint Remacle.<br /><br />"
+               },
+               "sousOeuvre" : [
+                    {
+                         "idSSOeuvre" : "69",
+                         "imageSSOeuvre" : "GC.REL.23a.1500.004808-11.jpg",
+                         "textes" : {
+                              "chapeauSSOeuvre" : "Fouilles de l&#39;église abbatiale de Stavelot. ",
+                              "legendeImageSSOeuvre" : "Fouilles de l&#39;église abbatiale de Stavelot. ",
+                              "descriptionSSOeuvre" : "La magnificence de ce retable témoigne en tout état de cause à la fois du prestige de l&#39;abbaye stavelotaine à cette époque et de la haute qualité des productions orfévrées issues des ateliers du diocèse de Liège. Sur le pourtour de l&#39;arc sont inscrits les noms des localités dont les revenus ont permis à l&#39;abbaye de financer l&#39;exécution du retable. "
+                         }
+                    },
+                    {
+                         "idSSOeuvre" : "70",
+                         "imageSSOeuvre" : "GC.REL.23a.1500.004808-12.jpg",
+                         "textes" : {
+                              "chapeauSSOeuvre" : "Médaillon « OPERATIO » de l&#39;ancien retable de saint Remacle. Vers 1155. Kunstgewerbemuseum, Berlin,.",
+                              "legendeImageSSOeuvre" : "Médaillon « OPERATIO » de l&#39;ancien retable de saint Remacle. Vers 1155. Kunstgewerbemuseum, Berlin,.",
+                              "descriptionSSOeuvre" : "Seuls quelques fragments du monument ont subsisté, dont deux médaillons émaillés qui flanquaient le tympan de la niche centrale."
+                         }
+                    }
+               ]
+          }
+     ]
+},
+{
+     "idLifi" : "8226",
+     "mapNumber" : "8226",
+     "coordinates" : "1493-898",
+     "etage" : "2",
+     "oeuvre" : [
+          {
+               "idOeuvre" : "UX.WAL.05b.0000.2051",
+               "coordOeuvre" : "N/A",
+               "imageOeuvre" : "BA.WAL.05b.0000.2051-01.jpg",
+               "textes" : {
+                    "chapeauOeuvre" : "Cet ensemble provient de l&#39;importante abbaye cistercienne d&#39;Herckenrode. Il a été dispersé peu après la Révolution, en 1794.Chacun de ces tableaux représente un épisode inspiré par la Bible ou l&#39;histoire romaine mettant en évidence la vertu ou le courage d&#39;un femme qui devenait ainsi objet de méditation pour les religieuses. ",
+                    "legendeImageOeuvre" : "David et Abigaël. Grand Curtius, Liège.",
+                    "titreOeuvre" : "Cycle des Femmes Vertueuses",
+                    "descriptionOeuvre" : "Ces 4 tableaux redécouverts et identifiés, il y a quelques années (1989), dans les collections communales appartiennent à une série de 8. Les 4 autres ont aussi été retrouvés récemment (2004) à l&#39;église Saint-Amand de Stockrooie (Hasselt). "
+               },
+               "sousOeuvre" : [
+               ]
+          }
+     ]
+},
+{
+     "idLifi" : "9948",
+     "mapNumber" : "9948",
+     "coordinates" : "1735-867",
+     "etage" : "2",
+     "oeuvre" : [
+          {
+               "idOeuvre" : "UX.REL.05a.1983.34062",
+               "coordOeuvre" : "1735,82",
+               "imageOeuvre" : "GC.REL.05a.1983.34062.jpg",
+               "textes" : {
+                    "chapeauOeuvre" : "La peinture représente, sur une face la Fuite en Egypte, sur l&#39;autre le Couronnement de la Vierge.<br />La Fuite en Egypte connaît ici l&#39;une des plus belles évocations de ce thème très populaire aux 15e et 16e S. Le panneau constitue le volet d&#39;un polyptyque marial, dont un autre volet conservé en collection privée montre la Présentation de la Vierge au temple et sa Dormition",
+                    "legendeImageOeuvre" : "La Fuite en Egypte et la Glorification de la Vierge. Rhin inférieur (?), vers 1480. Grand Curtius, Liège.<br />",
+                    "titreOeuvre" : "La Fuite en Egypte et la Glorification de la Vierge<br />",
+                    "descriptionOeuvre" : "Marie juchée sur un âne tend délicatement à l&#39;Enfant une monnaie d&#39;or, allusion à celle dont avait fait présent à Jésus chacun des Rois mages. Joseph dirige la monture, le visage inquiet. Cette inquiétude trouve sa justification dans le tableau même : au détour d&#39;une colline, s&#39;avance le roi Hérode et ses soldats, en quête de l&#39;Enfant. Les poursuivants arrivent à hauteur d&#39;un paysan devant un champ que la Sainte-Famille venait de traverser…alors qu&#39;il semait. Mais au moment même, le blé mûrit, décourageant ainsi Hérode de pouvoir rattraper les fugitifs. A l&#39;arrière-plan, une idole païenne s&#39;effondre d&#39; une colonne : la Sainte-Famille entre en Egypte.<br /><br />La ville ceinte de remparts à l&#39;arrière-plan fait naïvement référence à l&#39;Orient. Elle rappelle les remparts urbains dont maintes cités des Pays-Bas et de la principauté de Liège étaient entourées au 15e s. L&#39;horizon haut, traité en camaïeu bleuté, est hérissé de quelques massifs rocheux sur lesquels perchent clochers et châteaux, mais aussi des gibets et des roues, discrètes évocations des malheurs du temps.<br /><br />Au revers figure la Glorification de la Vierge : Marie recueillie et couronnée est assise à côté du Père, identifiable à ses traits âgés et à la couronne impériale- en guise de tiare- dont est ceint son front. Le muret à l ‘arrière-plan fait référence au Jardin clos, symbole de la virginité mariale. Deux anges déploient un dais d&#39;honneur pour cette scène censée se dérouler au Ciel."
+               },
+               "sousOeuvre" : [
+               ]
+          },
+          {
+               "idOeuvre" : "UX.REL.23a.2008.000854",
+               "coordOeuvre" : "1765,837",
+               "imageOeuvre" : "GC.REL.23a.2008.000854.jpg",
+               "textes" : {
+                    "chapeauOeuvre" : "Ce précieux dessin est directement inspiré d&#39;un tableau de Jean van Eyck daté vers 1425 et considéré comme œuvre de jeunesse de l&#39;artiste (Staatliche Museen de Berlin). Plusieurs versions en sont connues, mais cette dernière est considérée comme l&#39;authentique. ",
+                    "legendeImageOeuvre" : "La vierge dans l&#39;église. Suite de van Eyck, fin 15e S. Grand Curtius, Liège.",
+                    "titreOeuvre" : "La vierge dans l&#39;église",
+                    "descriptionOeuvre" : "La Vierge à l&#39;Enfant est représentée dans la nef centrale d&#39;une église gothique. Son front est ceint d&#39;une grande couronne orfévrée. Elle est vêtue d&#39;un manteau aux amples drapés sur lequel se répand sa longue chevelure. L&#39;église voûtée est un édifice à trois nefs  traversé par un transept et porté par des piles en faisceaux de colonnettes. Un jubé gothique finement sculpté précède le chœur. Il abrite un autel marial et est surmonté d&#39;un Calvaire. Dans le sanctuaire, surélevé de quelques marches et prolongé par une abside à cinq pans, se tiennent deux anges. "
+               },
+               "sousOeuvre" : [
+               ]
+          }
+     ]
+}
+]

@@ -1,0 +1,73 @@
+<!DOCTYPE html>
+<html>
+	<head>
+		<title></title>
+        <meta charset="utf-8" />
+        <meta name="format-detection" content="telephone=no" />	
+        <meta name="viewport" content="user-scalable=no, initial-scale=1, maximum-scale=1, minimum-scale=1, width=device-width, height=device-height, target-densitydpi=device-dpi" />        	
+        <link rel="stylesheet" type="text/css" href="styles.css" />
+
+        <script type="text/javascript">
+
+        	function currentKeyWords(keyword,keywordDef) {
+        		this.keyword = keyword;
+        		this.keywordDef = keywordDef;
+        	}
+
+        	var keyWordsOnThis = new Array();
+        	function parsingKeyWords(currentKeyWordsFileToRetrieve){
+				// Assign handlers immediately after making the request,
+				// and remember the jqxhr object for this request
+				var currentJson = $.getJSON( "jsons/KEY-FR.json", function() {
+				//  console.log( "success" );
+				  console.log(currentJson['responseJSON']);
+
+				})
+				  .done(function() {
+
+				  	keyWordsOnThis = new currentKeyWords();
+				  	for (var i = 0; i < currentJson['responseJSON'].length; i++){
+				  		keyWordsOnThis[i] = currentJson['responseJSON'][i];
+						$('div').highlight(currentJson['responseJSON'][i]['keyword']);
+						console.log(currentJson['responseJSON'][i]['keyword']);
+				  	}
+
+				  })
+				  .fail(function() {
+				//    console.log( "error" );
+				  })
+				  .always(function() {
+				//    console.log( "complete" );
+				  });
+				 
+				// Set another completion function for the request above
+				currentJson.complete(function() {
+				//  console.log( "second complete" );
+				});
+        	}
+
+        	window.onload=function(){
+        		console.log('onload!');
+        		parsingKeyWords();
+        	}
+
+        </script>
+	</head>
+
+	<body>
+		<section class="wrapper">
+			<div>
+					La croix et la bataille de napoléon est dans le tableau
+			</div>
+		</section>
+	</body>
+	<script type="text/javascript" src="scripts/jquery-2.0.3.min.js"></script>
+	<script type="text/javascript" src="scripts/international-wording.js"></script>	
+
+	<script type="text/javascript" src="scripts/jquery.highlight-4.js"></script>
+
+	<script type="text/javascript" src="scripts/jquery.smoothZoom.min.js"></script>	
+<!--
+	<script type="text/javascript" src="scripts/main.js"></script>
+-->
+</html>

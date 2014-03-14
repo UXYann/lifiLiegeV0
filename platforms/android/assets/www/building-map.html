@@ -1,0 +1,136 @@
+<!DOCTYPE html>
+<html>
+	<head>
+		<title></title>
+        <meta charset="utf-8" />
+        <meta name="format-detection" content="telephone=no" />	
+        <meta name="viewport" content="user-scalable=no, initial-scale=1, maximum-scale=1, minimum-scale=1, width=device-width, height=device-height, target-densitydpi=device-dpi" />        	
+        <link rel="stylesheet" type="text/css" href="styles.css" />
+	</head>
+
+	<body>
+		<section class="wrapper">
+			<section id="mapContainer">
+				
+
+				<div id="blackOverlay">
+					<div class="userSelectionToCarry">
+						<div id="lampStateOnVisit"></div>
+						<span id="carryOn">
+						</span>
+						<span id="stopHere">
+						</span>
+					</div>
+				</div>
+
+
+				<div id="zoom_container">
+				<div id="map">
+					<!--
+					    <img id="planMap" src="img/lvl0.png" width="1280" height="680px" />
+					-->    
+					    <div class="landmarks" data-show-at-zoom="100" data-allow-drag="true">    
+					           
+					        <!-- This is a mark-type landmark -->
+<!--
+					        <div class="item mark" data-position="480,465" data-show-at-zoom="0" id="lm1">
+					            <div>
+					                <img src="img/flagFR.png" width="50px" height="50px" alt="Permanent Mark" />    
+					            </div>    
+					        </div>        
+-->					               
+					    </div>
+					</div>	
+				</div>	
+
+
+
+				<section id="myOwnTable">
+					<div class="myOwnTableRow">
+						<span class="myOwnTableCells levelStatus">
+							<span class="navMapLabel1">
+								niveau courant
+							</span>
+							<span class="navMapWidget">
+								<span id="navMapLevel0" class="selected">
+									RDC
+								</span>
+								<span id="navMapLevel1">
+									1
+								</span>
+								<span id="navMapLevel2">
+									2
+								</span>
+							</span>
+						</span>
+						<span class="myOwnTableCells">
+							<span id="whereAreYou">
+								Votre localisation
+							</span>
+							<span id="mapBackToHome">
+								Accueil
+							</span>
+						</span>
+						<span class="myOwnTableCells">
+							<span id="mapGoToCloakRoom">
+								Vestiaires
+							</span>
+							<span id="mapGoToShop">
+								Boutique
+							</span>
+						</span>
+						<span class="myOwnTableCells">
+							<span id="mapGoToCafe">
+								Cafétéria
+							</span>
+							<span id="mapGoToToilettes">
+								Toilettes
+							</span>
+						</span>
+						<span class="myOwnTableCells">
+							<span id="mapGoToStairs">
+								Escaliers
+							</span>
+							<span id="mapGoToLifts">
+								Ascenceurs
+							</span>
+						</span>
+						<span class="myOwnTableCells posStatus">
+							<span id="myPositionIcon">
+							</span>
+							<br/>
+							<span id="myPositionText">
+								Ma position
+							</span>
+						</span>
+					</div>
+				</section>
+			</section>				
+		</section>
+	</body>
+	<script type="text/javascript" src="scripts/jquery-2.0.3.min.js"></script>
+	<script type="text/javascript" src="scripts/international-wording.js"></script>
+	
+	<script type="text/javascript" src="scripts/jquery.smoothZoom.min.js"></script>	
+
+	<script type="text/javascript" src="scripts/main.js"></script>	
+
+	<script type="text/javascript">
+		 $('#map').smoothZoom('destroy').css('background-image', 'url(img/preloader.gif)').smoothZoom({
+		        image_url: 'img/lvl0.png',
+		        responsive: false,
+		        responsive_maintain_ratio: true,
+		        max_WIDTH: '',
+		        max_HEIGHT: '',
+		        zoom_BUTTONS_SHOW: false,
+		        pan_BUTTONS_SHOW: false,
+		        zoom_MAX:'150',
+		        initial_ZOOM: '150',
+		        border_SIZE: 0
+		    });
+	</script>
+</html>
+
+
+
+
